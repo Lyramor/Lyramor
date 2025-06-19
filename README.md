@@ -18,11 +18,10 @@ const marsa = {
     location: "Bandung, West Java, Indonesia 🇮🇩",
     currentRole: "Informatics Engineering Student",
     passion: "Frontend Development & UI/UX Design",
-    currentGPA: "3.52/4.00",
     lifePhilosophy: "Code with passion, design with purpose ✨",
     
     currentlyLearning: ["React", "Next.js", "Advanced Laravel"],
-    lookingForOpportunities: ["Frontend Development", "UI/UX Design", "Mentorship"],
+    lookingForOpportunities: ["Frontend Development", "UI/UX Design"],
     
     dailyRoutine: ["👨‍💻 Code", "📚 Learn", "🎨 Design", "🔄 Repeat"]
 };
@@ -78,32 +77,6 @@ const marsa = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎮 Retro Game Hub - E-commerce Platform
-**Tech Stack:** Laravel Blade, Tailwind CSS, Spring Boot API, Midtrans Payment
-- Built responsive UI with shopping cart & order management
-- Integrated secure payment processing
-- Implemented comprehensive user authentication
-
-### 🏢 APCOM Solution Website - Company Profile & CMS
-**Tech Stack:** Laravel Blade, Tailwind CSS, JavaScript (Axios), Chart.js
-- Developed company profile with admin panel
-- Created interactive analytics dashboard
-- Implemented client-side user tracking
-
-### 📱 OPET - Educational Mobile App
-**Role:** Team Leader & UI Designer
-- Created 114+ custom assets
-- Designed educational app for children (age 8-10)
-- Built interactive division learning experience
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -126,7 +99,6 @@ const marsa = {
 <div align="center">
 
 🎓 **Jabar Future Leader Scholarship Recipient (2023)**  
-🎯 **GPA: 3.52/4.00** - Informatics Engineering  
 👨‍🏫 **Teaching Assistant** - Programming Practicum 1  
 🌐 **Google Developer on Campus** - Core Team Member  
 
