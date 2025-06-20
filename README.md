@@ -127,7 +127,6 @@ I'm always excited to work on interesting projects and meet fellow developers! ð
 **ðŸ’¡ Open to:**
 - Frontend Development Opportunities
 - Collaborative Projects
-- Mentorship Programs
 - Tech Discussions
 
 </div>
