@@ -84,9 +84,13 @@ const marsa = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyramor&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyramor&theme=tokyonight" alt="lyramor" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lyramor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="lyramor" />
