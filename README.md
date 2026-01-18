@@ -80,17 +80,20 @@ const marsa = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyramor&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyramor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyramor&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyramor&theme=tokyonight"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lyramor&theme=tokyonight"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyramor&theme=tokyonight"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lyramor&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyramor&theme=tokyonight&cache_seconds=1800" alt="lyramor" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lyramor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800" alt="lyramor" />
 </div>
 
 ---
