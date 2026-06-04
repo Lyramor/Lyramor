@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=14,19,20&text=Software+Engineer&fontSize=38&fontColor=c0caf5&animation=fadeIn&fontAlignY=50" width="100%" alt="header"/>
-
 <br/>
 
 <svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
@@ -18,793 +15,182 @@
     @keyframes fadein { 0%{opacity:0} 100%{opacity:1} }
   </style>
 
-  <!-- Matrix columns -->
   <g style="animation: fall0 2.6s 0.8s infinite linear; opacity:0.31;">
-    <text x="8" y="14" fill="#bb9af7" class="col">イ</text>
-    <text x="8" y="32" fill="#bb9af7" class="col">ト</text>
-    <text x="8" y="50" fill="#bb9af7" class="col">タ</text>
-    <text x="8" y="68" fill="#bb9af7" class="col">ア</text>
-    <text x="8" y="86" fill="#bb9af7" class="col">チ</text>
-    <text x="8" y="104" fill="#bb9af7" class="col">シ</text>
-    <text x="8" y="122" fill="#bb9af7" class="col">1</text>
-    <text x="8" y="140" fill="#bb9af7" class="col">0</text>
-    <text x="8" y="158" fill="#bb9af7" class="col">ア</text>
-    <text x="8" y="176" fill="#bb9af7" class="col">オ</text>
-    <text x="8" y="194" fill="#bb9af7" class="col">カ</text>
-    <text x="8" y="212" fill="#c0caf5" class="col">ソ</text>
+    <text x="8" y="14" fill="#bb9af7" class="col">イ</text><text x="8" y="32" fill="#bb9af7" class="col">ト</text><text x="8" y="50" fill="#bb9af7" class="col">タ</text><text x="8" y="68" fill="#bb9af7" class="col">ア</text><text x="8" y="86" fill="#bb9af7" class="col">チ</text><text x="8" y="104" fill="#bb9af7" class="col">シ</text><text x="8" y="122" fill="#bb9af7" class="col">1</text><text x="8" y="140" fill="#bb9af7" class="col">0</text><text x="8" y="158" fill="#bb9af7" class="col">ア</text><text x="8" y="176" fill="#bb9af7" class="col">オ</text><text x="8" y="194" fill="#bb9af7" class="col">カ</text><text x="8" y="212" fill="#c0caf5" class="col">ソ</text>
   </g>
   <g style="animation: fall4 2.6s 0.6s infinite linear; opacity:0.57;">
-    <text x="24" y="14" fill="#7aa2f7" class="col">シ</text>
-    <text x="24" y="32" fill="#7aa2f7" class="col">カ</text>
-    <text x="24" y="50" fill="#7aa2f7" class="col">ス</text>
-    <text x="24" y="68" fill="#7aa2f7" class="col">チ</text>
-    <text x="24" y="86" fill="#7aa2f7" class="col">キ</text>
-    <text x="24" y="104" fill="#7aa2f7" class="col">0</text>
-    <text x="24" y="122" fill="#7aa2f7" class="col">エ</text>
-    <text x="24" y="140" fill="#7aa2f7" class="col">シ</text>
-    <text x="24" y="158" fill="#7aa2f7" class="col">ケ</text>
-    <text x="24" y="176" fill="#7aa2f7" class="col">キ</text>
-    <text x="24" y="194" fill="#7aa2f7" class="col">ウ</text>
-    <text x="24" y="212" fill="#c0caf5" class="col">オ</text>
+    <text x="24" y="14" fill="#7aa2f7" class="col">シ</text><text x="24" y="32" fill="#7aa2f7" class="col">カ</text><text x="24" y="50" fill="#7aa2f7" class="col">ス</text><text x="24" y="68" fill="#7aa2f7" class="col">チ</text><text x="24" y="86" fill="#7aa2f7" class="col">キ</text><text x="24" y="104" fill="#7aa2f7" class="col">0</text><text x="24" y="122" fill="#7aa2f7" class="col">エ</text><text x="24" y="140" fill="#7aa2f7" class="col">シ</text><text x="24" y="158" fill="#7aa2f7" class="col">ケ</text><text x="24" y="176" fill="#7aa2f7" class="col">キ</text><text x="24" y="194" fill="#7aa2f7" class="col">ウ</text><text x="24" y="212" fill="#c0caf5" class="col">オ</text>
   </g>
   <g style="animation: fall2 2.8s 1.1s infinite linear; opacity:0.63;">
-    <text x="40" y="14" fill="#7dcfff" class="col">ツ</text>
-    <text x="40" y="32" fill="#7dcfff" class="col">キ</text>
-    <text x="40" y="50" fill="#7dcfff" class="col">1</text>
-    <text x="40" y="68" fill="#7dcfff" class="col">ス</text>
-    <text x="40" y="86" fill="#7dcfff" class="col">タ</text>
-    <text x="40" y="104" fill="#7dcfff" class="col">イ</text>
-    <text x="40" y="122" fill="#7dcfff" class="col">サ</text>
-    <text x="40" y="140" fill="#7dcfff" class="col">ア</text>
-    <text x="40" y="158" fill="#7dcfff" class="col">タ</text>
-    <text x="40" y="176" fill="#7dcfff" class="col">ク</text>
-    <text x="40" y="194" fill="#7dcfff" class="col">テ</text>
-    <text x="40" y="212" fill="#c0caf5" class="col">ツ</text>
+    <text x="40" y="14" fill="#7dcfff" class="col">ツ</text><text x="40" y="32" fill="#7dcfff" class="col">キ</text><text x="40" y="50" fill="#7dcfff" class="col">1</text><text x="40" y="68" fill="#7dcfff" class="col">ス</text><text x="40" y="86" fill="#7dcfff" class="col">タ</text><text x="40" y="104" fill="#7dcfff" class="col">イ</text><text x="40" y="122" fill="#7dcfff" class="col">サ</text><text x="40" y="140" fill="#7dcfff" class="col">ア</text><text x="40" y="158" fill="#7dcfff" class="col">タ</text><text x="40" y="176" fill="#7dcfff" class="col">ク</text><text x="40" y="194" fill="#7dcfff" class="col">テ</text><text x="40" y="212" fill="#c0caf5" class="col">ツ</text>
   </g>
   <g style="animation: fall2 3.9s 2.1s infinite linear; opacity:0.55;">
-    <text x="56" y="14" fill="#7aa2f7" class="col">ク</text>
-    <text x="56" y="32" fill="#7aa2f7" class="col">ア</text>
-    <text x="56" y="50" fill="#7aa2f7" class="col">カ</text>
-    <text x="56" y="68" fill="#7aa2f7" class="col">イ</text>
-    <text x="56" y="86" fill="#7aa2f7" class="col">サ</text>
-    <text x="56" y="104" fill="#7aa2f7" class="col">キ</text>
-    <text x="56" y="122" fill="#7aa2f7" class="col">ス</text>
-    <text x="56" y="140" fill="#7aa2f7" class="col">テ</text>
-    <text x="56" y="158" fill="#7aa2f7" class="col">コ</text>
-    <text x="56" y="176" fill="#7aa2f7" class="col">エ</text>
-    <text x="56" y="194" fill="#7aa2f7" class="col">コ</text>
-    <text x="56" y="212" fill="#c0caf5" class="col">コ</text>
+    <text x="56" y="14" fill="#7aa2f7" class="col">ク</text><text x="56" y="32" fill="#7aa2f7" class="col">ア</text><text x="56" y="50" fill="#7aa2f7" class="col">カ</text><text x="56" y="68" fill="#7aa2f7" class="col">イ</text><text x="56" y="86" fill="#7aa2f7" class="col">サ</text><text x="56" y="104" fill="#7aa2f7" class="col">キ</text><text x="56" y="122" fill="#7aa2f7" class="col">ス</text><text x="56" y="140" fill="#7aa2f7" class="col">テ</text><text x="56" y="158" fill="#7aa2f7" class="col">コ</text><text x="56" y="176" fill="#7aa2f7" class="col">エ</text><text x="56" y="194" fill="#7aa2f7" class="col">コ</text><text x="56" y="212" fill="#c0caf5" class="col">コ</text>
   </g>
   <g style="animation: fall1 4.2s 2.1s infinite linear; opacity:0.54;">
-    <text x="72" y="14" fill="#7aa2f7" class="col">ツ</text>
-    <text x="72" y="32" fill="#7aa2f7" class="col">テ</text>
-    <text x="72" y="50" fill="#7aa2f7" class="col">エ</text>
-    <text x="72" y="68" fill="#7aa2f7" class="col">タ</text>
-    <text x="72" y="86" fill="#7aa2f7" class="col">カ</text>
-    <text x="72" y="104" fill="#7aa2f7" class="col">エ</text>
-    <text x="72" y="122" fill="#7aa2f7" class="col">ス</text>
-    <text x="72" y="140" fill="#7aa2f7" class="col">サ</text>
-    <text x="72" y="158" fill="#7aa2f7" class="col">キ</text>
-    <text x="72" y="176" fill="#7aa2f7" class="col">テ</text>
-    <text x="72" y="194" fill="#7aa2f7" class="col">タ</text>
-    <text x="72" y="212" fill="#c0caf5" class="col">カ</text>
+    <text x="72" y="14" fill="#7aa2f7" class="col">ツ</text><text x="72" y="32" fill="#7aa2f7" class="col">テ</text><text x="72" y="50" fill="#7aa2f7" class="col">エ</text><text x="72" y="68" fill="#7aa2f7" class="col">タ</text><text x="72" y="86" fill="#7aa2f7" class="col">カ</text><text x="72" y="104" fill="#7aa2f7" class="col">エ</text><text x="72" y="122" fill="#7aa2f7" class="col">ス</text><text x="72" y="140" fill="#7aa2f7" class="col">サ</text><text x="72" y="158" fill="#7aa2f7" class="col">キ</text><text x="72" y="176" fill="#7aa2f7" class="col">テ</text><text x="72" y="194" fill="#7aa2f7" class="col">タ</text><text x="72" y="212" fill="#c0caf5" class="col">カ</text>
   </g>
   <g style="animation: fall2 4.6s 2.3s infinite linear; opacity:0.62;">
-    <text x="88" y="14" fill="#bb9af7" class="col">ケ</text>
-    <text x="88" y="32" fill="#bb9af7" class="col">サ</text>
-    <text x="88" y="50" fill="#bb9af7" class="col">キ</text>
-    <text x="88" y="68" fill="#bb9af7" class="col">ア</text>
-    <text x="88" y="86" fill="#bb9af7" class="col">オ</text>
-    <text x="88" y="104" fill="#bb9af7" class="col">チ</text>
-    <text x="88" y="122" fill="#bb9af7" class="col">ケ</text>
-    <text x="88" y="140" fill="#bb9af7" class="col">オ</text>
-    <text x="88" y="158" fill="#bb9af7" class="col">テ</text>
-    <text x="88" y="176" fill="#bb9af7" class="col">セ</text>
-    <text x="88" y="194" fill="#bb9af7" class="col">サ</text>
-    <text x="88" y="212" fill="#c0caf5" class="col">テ</text>
+    <text x="88" y="14" fill="#bb9af7" class="col">ケ</text><text x="88" y="32" fill="#bb9af7" class="col">サ</text><text x="88" y="50" fill="#bb9af7" class="col">キ</text><text x="88" y="68" fill="#bb9af7" class="col">ア</text><text x="88" y="86" fill="#bb9af7" class="col">オ</text><text x="88" y="104" fill="#bb9af7" class="col">チ</text><text x="88" y="122" fill="#bb9af7" class="col">ケ</text><text x="88" y="140" fill="#bb9af7" class="col">オ</text><text x="88" y="158" fill="#bb9af7" class="col">テ</text><text x="88" y="176" fill="#bb9af7" class="col">セ</text><text x="88" y="194" fill="#bb9af7" class="col">サ</text><text x="88" y="212" fill="#c0caf5" class="col">テ</text>
   </g>
   <g style="animation: fall3 2.9s 0.4s infinite linear; opacity:0.5;">
-    <text x="104" y="14" fill="#7aa2f7" class="col">キ</text>
-    <text x="104" y="32" fill="#7aa2f7" class="col">チ</text>
-    <text x="104" y="50" fill="#7aa2f7" class="col">シ</text>
-    <text x="104" y="68" fill="#7aa2f7" class="col">チ</text>
-    <text x="104" y="86" fill="#7aa2f7" class="col">サ</text>
-    <text x="104" y="104" fill="#7aa2f7" class="col">コ</text>
-    <text x="104" y="122" fill="#7aa2f7" class="col">カ</text>
-    <text x="104" y="140" fill="#7aa2f7" class="col">ウ</text>
-    <text x="104" y="158" fill="#7aa2f7" class="col">ソ</text>
-    <text x="104" y="176" fill="#7aa2f7" class="col">セ</text>
-    <text x="104" y="194" fill="#7aa2f7" class="col">ア</text>
-    <text x="104" y="212" fill="#c0caf5" class="col">1</text>
+    <text x="104" y="14" fill="#7aa2f7" class="col">キ</text><text x="104" y="32" fill="#7aa2f7" class="col">チ</text><text x="104" y="50" fill="#7aa2f7" class="col">シ</text><text x="104" y="68" fill="#7aa2f7" class="col">チ</text><text x="104" y="86" fill="#7aa2f7" class="col">サ</text><text x="104" y="104" fill="#7aa2f7" class="col">コ</text><text x="104" y="122" fill="#7aa2f7" class="col">カ</text><text x="104" y="140" fill="#7aa2f7" class="col">ウ</text><text x="104" y="158" fill="#7aa2f7" class="col">ソ</text><text x="104" y="176" fill="#7aa2f7" class="col">セ</text><text x="104" y="194" fill="#7aa2f7" class="col">ア</text><text x="104" y="212" fill="#c0caf5" class="col">1</text>
   </g>
   <g style="animation: fall0 2.9s 0.5s infinite linear; opacity:0.44;">
-    <text x="120" y="14" fill="#7aa2f7" class="col">ア</text>
-    <text x="120" y="32" fill="#7aa2f7" class="col">サ</text>
-    <text x="120" y="50" fill="#7aa2f7" class="col">サ</text>
-    <text x="120" y="68" fill="#7aa2f7" class="col">ツ</text>
-    <text x="120" y="86" fill="#7aa2f7" class="col">ス</text>
-    <text x="120" y="104" fill="#7aa2f7" class="col">ソ</text>
-    <text x="120" y="122" fill="#7aa2f7" class="col">キ</text>
-    <text x="120" y="140" fill="#7aa2f7" class="col">タ</text>
-    <text x="120" y="158" fill="#7aa2f7" class="col">0</text>
-    <text x="120" y="176" fill="#7aa2f7" class="col">ト</text>
-    <text x="120" y="194" fill="#7aa2f7" class="col">イ</text>
-    <text x="120" y="212" fill="#c0caf5" class="col">ト</text>
+    <text x="120" y="14" fill="#7aa2f7" class="col">ア</text><text x="120" y="32" fill="#7aa2f7" class="col">サ</text><text x="120" y="50" fill="#7aa2f7" class="col">サ</text><text x="120" y="68" fill="#7aa2f7" class="col">ツ</text><text x="120" y="86" fill="#7aa2f7" class="col">ス</text><text x="120" y="104" fill="#7aa2f7" class="col">ソ</text><text x="120" y="122" fill="#7aa2f7" class="col">キ</text><text x="120" y="140" fill="#7aa2f7" class="col">タ</text><text x="120" y="158" fill="#7aa2f7" class="col">0</text><text x="120" y="176" fill="#7aa2f7" class="col">ト</text><text x="120" y="194" fill="#7aa2f7" class="col">イ</text><text x="120" y="212" fill="#c0caf5" class="col">ト</text>
   </g>
   <g style="animation: fall4 4.4s 2.3s infinite linear; opacity:0.3;">
-    <text x="136" y="14" fill="#7dcfff" class="col">シ</text>
-    <text x="136" y="32" fill="#7dcfff" class="col">エ</text>
-    <text x="136" y="50" fill="#7dcfff" class="col">ス</text>
-    <text x="136" y="68" fill="#7dcfff" class="col">0</text>
-    <text x="136" y="86" fill="#7dcfff" class="col">キ</text>
-    <text x="136" y="104" fill="#7dcfff" class="col">ソ</text>
-    <text x="136" y="122" fill="#7dcfff" class="col">エ</text>
-    <text x="136" y="140" fill="#7dcfff" class="col">ソ</text>
-    <text x="136" y="158" fill="#7dcfff" class="col">イ</text>
-    <text x="136" y="176" fill="#7dcfff" class="col">テ</text>
-    <text x="136" y="194" fill="#7dcfff" class="col">ク</text>
-    <text x="136" y="212" fill="#c0caf5" class="col">テ</text>
+    <text x="136" y="14" fill="#7dcfff" class="col">シ</text><text x="136" y="32" fill="#7dcfff" class="col">エ</text><text x="136" y="50" fill="#7dcfff" class="col">ス</text><text x="136" y="68" fill="#7dcfff" class="col">0</text><text x="136" y="86" fill="#7dcfff" class="col">キ</text><text x="136" y="104" fill="#7dcfff" class="col">ソ</text><text x="136" y="122" fill="#7dcfff" class="col">エ</text><text x="136" y="140" fill="#7dcfff" class="col">ソ</text><text x="136" y="158" fill="#7dcfff" class="col">イ</text><text x="136" y="176" fill="#7dcfff" class="col">テ</text><text x="136" y="194" fill="#7dcfff" class="col">ク</text><text x="136" y="212" fill="#c0caf5" class="col">テ</text>
   </g>
   <g style="animation: fall4 4.0s 0.5s infinite linear; opacity:0.32;">
-    <text x="152" y="14" fill="#7aa2f7" class="col">ソ</text>
-    <text x="152" y="32" fill="#7aa2f7" class="col">0</text>
-    <text x="152" y="50" fill="#7aa2f7" class="col">ツ</text>
-    <text x="152" y="68" fill="#7aa2f7" class="col">ケ</text>
-    <text x="152" y="86" fill="#7aa2f7" class="col">セ</text>
-    <text x="152" y="104" fill="#7aa2f7" class="col">0</text>
-    <text x="152" y="122" fill="#7aa2f7" class="col">イ</text>
-    <text x="152" y="140" fill="#7aa2f7" class="col">コ</text>
-    <text x="152" y="158" fill="#7aa2f7" class="col">ク</text>
-    <text x="152" y="176" fill="#7aa2f7" class="col">カ</text>
-    <text x="152" y="194" fill="#7aa2f7" class="col">1</text>
-    <text x="152" y="212" fill="#c0caf5" class="col">カ</text>
+    <text x="152" y="14" fill="#7aa2f7" class="col">ソ</text><text x="152" y="32" fill="#7aa2f7" class="col">0</text><text x="152" y="50" fill="#7aa2f7" class="col">ツ</text><text x="152" y="68" fill="#7aa2f7" class="col">ケ</text><text x="152" y="86" fill="#7aa2f7" class="col">セ</text><text x="152" y="104" fill="#7aa2f7" class="col">0</text><text x="152" y="122" fill="#7aa2f7" class="col">イ</text><text x="152" y="140" fill="#7aa2f7" class="col">コ</text><text x="152" y="158" fill="#7aa2f7" class="col">ク</text><text x="152" y="176" fill="#7aa2f7" class="col">カ</text><text x="152" y="194" fill="#7aa2f7" class="col">1</text><text x="152" y="212" fill="#c0caf5" class="col">カ</text>
   </g>
   <g style="animation: fall4 4.9s 0.3s infinite linear; opacity:0.62;">
-    <text x="168" y="14" fill="#3d59a1" class="col">タ</text>
-    <text x="168" y="32" fill="#3d59a1" class="col">ウ</text>
-    <text x="168" y="50" fill="#3d59a1" class="col">ウ</text>
-    <text x="168" y="68" fill="#3d59a1" class="col">ト</text>
-    <text x="168" y="86" fill="#3d59a1" class="col">セ</text>
-    <text x="168" y="104" fill="#3d59a1" class="col">タ</text>
-    <text x="168" y="122" fill="#3d59a1" class="col">エ</text>
-    <text x="168" y="140" fill="#3d59a1" class="col">キ</text>
-    <text x="168" y="158" fill="#3d59a1" class="col">ソ</text>
-    <text x="168" y="176" fill="#3d59a1" class="col">ツ</text>
-    <text x="168" y="194" fill="#3d59a1" class="col">シ</text>
-    <text x="168" y="212" fill="#c0caf5" class="col">オ</text>
+    <text x="168" y="14" fill="#3d59a1" class="col">タ</text><text x="168" y="32" fill="#3d59a1" class="col">ウ</text><text x="168" y="50" fill="#3d59a1" class="col">ウ</text><text x="168" y="68" fill="#3d59a1" class="col">ト</text><text x="168" y="86" fill="#3d59a1" class="col">セ</text><text x="168" y="104" fill="#3d59a1" class="col">タ</text><text x="168" y="122" fill="#3d59a1" class="col">エ</text><text x="168" y="140" fill="#3d59a1" class="col">キ</text><text x="168" y="158" fill="#3d59a1" class="col">ソ</text><text x="168" y="176" fill="#3d59a1" class="col">ツ</text><text x="168" y="194" fill="#3d59a1" class="col">シ</text><text x="168" y="212" fill="#c0caf5" class="col">オ</text>
   </g>
   <g style="animation: fall4 4.4s 2.1s infinite linear; opacity:0.39;">
-    <text x="184" y="14" fill="#7aa2f7" class="col">ト</text>
-    <text x="184" y="32" fill="#7aa2f7" class="col">テ</text>
-    <text x="184" y="50" fill="#7aa2f7" class="col">コ</text>
-    <text x="184" y="68" fill="#7aa2f7" class="col">ス</text>
-    <text x="184" y="86" fill="#7aa2f7" class="col">ソ</text>
-    <text x="184" y="104" fill="#7aa2f7" class="col">ス</text>
-    <text x="184" y="122" fill="#7aa2f7" class="col">イ</text>
-    <text x="184" y="140" fill="#7aa2f7" class="col">カ</text>
-    <text x="184" y="158" fill="#7aa2f7" class="col">カ</text>
-    <text x="184" y="176" fill="#7aa2f7" class="col">ア</text>
-    <text x="184" y="194" fill="#7aa2f7" class="col">ケ</text>
-    <text x="184" y="212" fill="#c0caf5" class="col">0</text>
+    <text x="184" y="14" fill="#7aa2f7" class="col">ト</text><text x="184" y="32" fill="#7aa2f7" class="col">テ</text><text x="184" y="50" fill="#7aa2f7" class="col">コ</text><text x="184" y="68" fill="#7aa2f7" class="col">ス</text><text x="184" y="86" fill="#7aa2f7" class="col">ソ</text><text x="184" y="104" fill="#7aa2f7" class="col">ス</text><text x="184" y="122" fill="#7aa2f7" class="col">イ</text><text x="184" y="140" fill="#7aa2f7" class="col">カ</text><text x="184" y="158" fill="#7aa2f7" class="col">カ</text><text x="184" y="176" fill="#7aa2f7" class="col">ア</text><text x="184" y="194" fill="#7aa2f7" class="col">ケ</text><text x="184" y="212" fill="#c0caf5" class="col">0</text>
   </g>
-  <g style="animation: fall4 3.9s 1.8s infinite linear; opacity:0.28;">
-    <text x="200" y="14" fill="#7aa2f7" class="col">テ</text>
-    <text x="200" y="32" fill="#7aa2f7" class="col">1</text>
-    <text x="200" y="50" fill="#7aa2f7" class="col">カ</text>
-    <text x="200" y="68" fill="#7aa2f7" class="col">ア</text>
-    <text x="200" y="86" fill="#7aa2f7" class="col">1</text>
-    <text x="200" y="104" fill="#7aa2f7" class="col">ケ</text>
-    <text x="200" y="122" fill="#7aa2f7" class="col">ア</text>
-    <text x="200" y="140" fill="#7aa2f7" class="col">ソ</text>
-    <text x="200" y="158" fill="#7aa2f7" class="col">カ</text>
-    <text x="200" y="176" fill="#7aa2f7" class="col">キ</text>
-    <text x="200" y="194" fill="#7aa2f7" class="col">ト</text>
-    <text x="200" y="212" fill="#c0caf5" class="col">セ</text>
+  <g style="animation: fall3 3.9s 1.8s infinite linear; opacity:0.28;">
+    <text x="200" y="14" fill="#7aa2f7" class="col">テ</text><text x="200" y="32" fill="#7aa2f7" class="col">1</text><text x="200" y="50" fill="#7aa2f7" class="col">カ</text><text x="200" y="68" fill="#7aa2f7" class="col">ア</text><text x="200" y="86" fill="#7aa2f7" class="col">1</text><text x="200" y="104" fill="#7aa2f7" class="col">ケ</text><text x="200" y="122" fill="#7aa2f7" class="col">ア</text><text x="200" y="140" fill="#7aa2f7" class="col">ソ</text><text x="200" y="158" fill="#7aa2f7" class="col">カ</text><text x="200" y="176" fill="#7aa2f7" class="col">キ</text><text x="200" y="194" fill="#7aa2f7" class="col">ト</text><text x="200" y="212" fill="#c0caf5" class="col">セ</text>
   </g>
   <g style="animation: fall1 3.8s 2.2s infinite linear; opacity:0.51;">
-    <text x="216" y="14" fill="#574faa" class="col">カ</text>
-    <text x="216" y="32" fill="#574faa" class="col">セ</text>
-    <text x="216" y="50" fill="#574faa" class="col">シ</text>
-    <text x="216" y="68" fill="#574faa" class="col">オ</text>
-    <text x="216" y="86" fill="#574faa" class="col">イ</text>
-    <text x="216" y="104" fill="#574faa" class="col">イ</text>
-    <text x="216" y="122" fill="#574faa" class="col">ト</text>
-    <text x="216" y="140" fill="#574faa" class="col">シ</text>
-    <text x="216" y="158" fill="#574faa" class="col">コ</text>
-    <text x="216" y="176" fill="#574faa" class="col">シ</text>
-    <text x="216" y="194" fill="#574faa" class="col">シ</text>
-    <text x="216" y="212" fill="#c0caf5" class="col">ス</text>
+    <text x="216" y="14" fill="#574faa" class="col">カ</text><text x="216" y="32" fill="#574faa" class="col">セ</text><text x="216" y="50" fill="#574faa" class="col">シ</text><text x="216" y="68" fill="#574faa" class="col">オ</text><text x="216" y="86" fill="#574faa" class="col">イ</text><text x="216" y="104" fill="#574faa" class="col">イ</text><text x="216" y="122" fill="#574faa" class="col">ト</text><text x="216" y="140" fill="#574faa" class="col">シ</text><text x="216" y="158" fill="#574faa" class="col">コ</text><text x="216" y="176" fill="#574faa" class="col">シ</text><text x="216" y="194" fill="#574faa" class="col">シ</text><text x="216" y="212" fill="#c0caf5" class="col">ス</text>
   </g>
   <g style="animation: fall0 4.2s 3.0s infinite linear; opacity:0.28;">
-    <text x="232" y="14" fill="#7aa2f7" class="col">ケ</text>
-    <text x="232" y="32" fill="#7aa2f7" class="col">イ</text>
-    <text x="232" y="50" fill="#7aa2f7" class="col">カ</text>
-    <text x="232" y="68" fill="#7aa2f7" class="col">オ</text>
-    <text x="232" y="86" fill="#7aa2f7" class="col">オ</text>
-    <text x="232" y="104" fill="#7aa2f7" class="col">タ</text>
-    <text x="232" y="122" fill="#7aa2f7" class="col">ス</text>
-    <text x="232" y="140" fill="#7aa2f7" class="col">ウ</text>
-    <text x="232" y="158" fill="#7aa2f7" class="col">シ</text>
-    <text x="232" y="176" fill="#7aa2f7" class="col">エ</text>
-    <text x="232" y="194" fill="#7aa2f7" class="col">キ</text>
-    <text x="232" y="212" fill="#c0caf5" class="col">ス</text>
+    <text x="232" y="14" fill="#7aa2f7" class="col">ケ</text><text x="232" y="32" fill="#7aa2f7" class="col">イ</text><text x="232" y="50" fill="#7aa2f7" class="col">カ</text><text x="232" y="68" fill="#7aa2f7" class="col">オ</text><text x="232" y="86" fill="#7aa2f7" class="col">オ</text><text x="232" y="104" fill="#7aa2f7" class="col">タ</text><text x="232" y="122" fill="#7aa2f7" class="col">ス</text><text x="232" y="140" fill="#7aa2f7" class="col">ウ</text><text x="232" y="158" fill="#7aa2f7" class="col">シ</text><text x="232" y="176" fill="#7aa2f7" class="col">エ</text><text x="232" y="194" fill="#7aa2f7" class="col">キ</text><text x="232" y="212" fill="#c0caf5" class="col">ス</text>
   </g>
   <g style="animation: fall1 4.7s 0.2s infinite linear; opacity:0.64;">
-    <text x="248" y="14" fill="#7aa2f7" class="col">タ</text>
-    <text x="248" y="32" fill="#7aa2f7" class="col">イ</text>
-    <text x="248" y="50" fill="#7aa2f7" class="col">1</text>
-    <text x="248" y="68" fill="#7aa2f7" class="col">テ</text>
-    <text x="248" y="86" fill="#7aa2f7" class="col">タ</text>
-    <text x="248" y="104" fill="#7aa2f7" class="col">0</text>
-    <text x="248" y="122" fill="#7aa2f7" class="col">ア</text>
-    <text x="248" y="140" fill="#7aa2f7" class="col">カ</text>
-    <text x="248" y="158" fill="#7aa2f7" class="col">エ</text>
-    <text x="248" y="176" fill="#7aa2f7" class="col">シ</text>
-    <text x="248" y="194" fill="#7aa2f7" class="col">セ</text>
-    <text x="248" y="212" fill="#c0caf5" class="col">セ</text>
+    <text x="248" y="14" fill="#7aa2f7" class="col">タ</text><text x="248" y="32" fill="#7aa2f7" class="col">イ</text><text x="248" y="50" fill="#7aa2f7" class="col">1</text><text x="248" y="68" fill="#7aa2f7" class="col">テ</text><text x="248" y="86" fill="#7aa2f7" class="col">タ</text><text x="248" y="104" fill="#7aa2f7" class="col">0</text><text x="248" y="122" fill="#7aa2f7" class="col">ア</text><text x="248" y="140" fill="#7aa2f7" class="col">カ</text><text x="248" y="158" fill="#7aa2f7" class="col">エ</text><text x="248" y="176" fill="#7aa2f7" class="col">シ</text><text x="248" y="194" fill="#7aa2f7" class="col">セ</text><text x="248" y="212" fill="#c0caf5" class="col">セ</text>
   </g>
   <g style="animation: fall1 4.7s 2.7s infinite linear; opacity:0.42;">
-    <text x="264" y="14" fill="#bb9af7" class="col">サ</text>
-    <text x="264" y="32" fill="#bb9af7" class="col">キ</text>
-    <text x="264" y="50" fill="#bb9af7" class="col">ス</text>
-    <text x="264" y="68" fill="#bb9af7" class="col">ク</text>
-    <text x="264" y="86" fill="#bb9af7" class="col">シ</text>
-    <text x="264" y="104" fill="#bb9af7" class="col">タ</text>
-    <text x="264" y="122" fill="#bb9af7" class="col">ト</text>
-    <text x="264" y="140" fill="#bb9af7" class="col">セ</text>
-    <text x="264" y="158" fill="#bb9af7" class="col">ウ</text>
-    <text x="264" y="176" fill="#bb9af7" class="col">オ</text>
-    <text x="264" y="194" fill="#bb9af7" class="col">ク</text>
-    <text x="264" y="212" fill="#c0caf5" class="col">オ</text>
+    <text x="264" y="14" fill="#bb9af7" class="col">サ</text><text x="264" y="32" fill="#bb9af7" class="col">キ</text><text x="264" y="50" fill="#bb9af7" class="col">ス</text><text x="264" y="68" fill="#bb9af7" class="col">ク</text><text x="264" y="86" fill="#bb9af7" class="col">シ</text><text x="264" y="104" fill="#bb9af7" class="col">タ</text><text x="264" y="122" fill="#bb9af7" class="col">ト</text><text x="264" y="140" fill="#bb9af7" class="col">セ</text><text x="264" y="158" fill="#bb9af7" class="col">ウ</text><text x="264" y="176" fill="#bb9af7" class="col">オ</text><text x="264" y="194" fill="#bb9af7" class="col">ク</text><text x="264" y="212" fill="#c0caf5" class="col">オ</text>
   </g>
   <g style="animation: fall0 3.9s 1.6s infinite linear; opacity:0.39;">
-    <text x="280" y="14" fill="#7aa2f7" class="col">1</text>
-    <text x="280" y="32" fill="#7aa2f7" class="col">チ</text>
-    <text x="280" y="50" fill="#7aa2f7" class="col">セ</text>
-    <text x="280" y="68" fill="#7aa2f7" class="col">ソ</text>
-    <text x="280" y="86" fill="#7aa2f7" class="col">ソ</text>
-    <text x="280" y="104" fill="#7aa2f7" class="col">エ</text>
-    <text x="280" y="122" fill="#7aa2f7" class="col">1</text>
-    <text x="280" y="140" fill="#7aa2f7" class="col">ソ</text>
-    <text x="280" y="158" fill="#7aa2f7" class="col">ア</text>
-    <text x="280" y="176" fill="#7aa2f7" class="col">エ</text>
-    <text x="280" y="194" fill="#7aa2f7" class="col">ア</text>
-    <text x="280" y="212" fill="#c0caf5" class="col">ツ</text>
+    <text x="280" y="14" fill="#7aa2f7" class="col">1</text><text x="280" y="32" fill="#7aa2f7" class="col">チ</text><text x="280" y="50" fill="#7aa2f7" class="col">セ</text><text x="280" y="68" fill="#7aa2f7" class="col">ソ</text><text x="280" y="86" fill="#7aa2f7" class="col">ソ</text><text x="280" y="104" fill="#7aa2f7" class="col">エ</text><text x="280" y="122" fill="#7aa2f7" class="col">1</text><text x="280" y="140" fill="#7aa2f7" class="col">ソ</text><text x="280" y="158" fill="#7aa2f7" class="col">ア</text><text x="280" y="176" fill="#7aa2f7" class="col">エ</text><text x="280" y="194" fill="#7aa2f7" class="col">ア</text><text x="280" y="212" fill="#c0caf5" class="col">ツ</text>
   </g>
   <g style="animation: fall0 4.2s 0.7s infinite linear; opacity:0.67;">
-    <text x="296" y="14" fill="#7aa2f7" class="col">チ</text>
-    <text x="296" y="32" fill="#7aa2f7" class="col">カ</text>
-    <text x="296" y="50" fill="#7aa2f7" class="col">チ</text>
-    <text x="296" y="68" fill="#7aa2f7" class="col">ツ</text>
-    <text x="296" y="86" fill="#7aa2f7" class="col">1</text>
-    <text x="296" y="104" fill="#7aa2f7" class="col">ツ</text>
-    <text x="296" y="122" fill="#7aa2f7" class="col">ア</text>
-    <text x="296" y="140" fill="#7aa2f7" class="col">シ</text>
-    <text x="296" y="158" fill="#7aa2f7" class="col">ト</text>
-    <text x="296" y="176" fill="#7aa2f7" class="col">チ</text>
-    <text x="296" y="194" fill="#7aa2f7" class="col">チ</text>
-    <text x="296" y="212" fill="#c0caf5" class="col">ソ</text>
+    <text x="296" y="14" fill="#7aa2f7" class="col">チ</text><text x="296" y="32" fill="#7aa2f7" class="col">カ</text><text x="296" y="50" fill="#7aa2f7" class="col">チ</text><text x="296" y="68" fill="#7aa2f7" class="col">ツ</text><text x="296" y="86" fill="#7aa2f7" class="col">1</text><text x="296" y="104" fill="#7aa2f7" class="col">ツ</text><text x="296" y="122" fill="#7aa2f7" class="col">ア</text><text x="296" y="140" fill="#7aa2f7" class="col">シ</text><text x="296" y="158" fill="#7aa2f7" class="col">ト</text><text x="296" y="176" fill="#7aa2f7" class="col">チ</text><text x="296" y="194" fill="#7aa2f7" class="col">チ</text><text x="296" y="212" fill="#c0caf5" class="col">ソ</text>
   </g>
   <g style="animation: fall2 4.8s 0.6s infinite linear; opacity:0.39;">
-    <text x="312" y="14" fill="#7aa2f7" class="col">キ</text>
-    <text x="312" y="32" fill="#7aa2f7" class="col">サ</text>
-    <text x="312" y="50" fill="#7aa2f7" class="col">ウ</text>
-    <text x="312" y="68" fill="#7aa2f7" class="col">ト</text>
-    <text x="312" y="86" fill="#7aa2f7" class="col">テ</text>
-    <text x="312" y="104" fill="#7aa2f7" class="col">ク</text>
-    <text x="312" y="122" fill="#7aa2f7" class="col">ス</text>
-    <text x="312" y="140" fill="#7aa2f7" class="col">ケ</text>
-    <text x="312" y="158" fill="#7aa2f7" class="col">ア</text>
-    <text x="312" y="176" fill="#7aa2f7" class="col">0</text>
-    <text x="312" y="194" fill="#7aa2f7" class="col">ス</text>
-    <text x="312" y="212" fill="#c0caf5" class="col">ツ</text>
+    <text x="312" y="14" fill="#7aa2f7" class="col">キ</text><text x="312" y="32" fill="#7aa2f7" class="col">サ</text><text x="312" y="50" fill="#7aa2f7" class="col">ウ</text><text x="312" y="68" fill="#7aa2f7" class="col">ト</text><text x="312" y="86" fill="#7aa2f7" class="col">テ</text><text x="312" y="104" fill="#7aa2f7" class="col">ク</text><text x="312" y="122" fill="#7aa2f7" class="col">ス</text><text x="312" y="140" fill="#7aa2f7" class="col">ケ</text><text x="312" y="158" fill="#7aa2f7" class="col">ア</text><text x="312" y="176" fill="#7aa2f7" class="col">0</text><text x="312" y="194" fill="#7aa2f7" class="col">ス</text><text x="312" y="212" fill="#c0caf5" class="col">ツ</text>
   </g>
   <g style="animation: fall4 5.0s 0.2s infinite linear; opacity:0.48;">
-    <text x="328" y="14" fill="#bb9af7" class="col">ウ</text>
-    <text x="328" y="32" fill="#bb9af7" class="col">コ</text>
-    <text x="328" y="50" fill="#bb9af7" class="col">ア</text>
-    <text x="328" y="68" fill="#bb9af7" class="col">カ</text>
-    <text x="328" y="86" fill="#bb9af7" class="col">コ</text>
-    <text x="328" y="104" fill="#bb9af7" class="col">ク</text>
-    <text x="328" y="122" fill="#bb9af7" class="col">エ</text>
-    <text x="328" y="140" fill="#bb9af7" class="col">ス</text>
-    <text x="328" y="158" fill="#bb9af7" class="col">タ</text>
-    <text x="328" y="176" fill="#bb9af7" class="col">ク</text>
-    <text x="328" y="194" fill="#bb9af7" class="col">ツ</text>
-    <text x="328" y="212" fill="#c0caf5" class="col">テ</text>
+    <text x="328" y="14" fill="#bb9af7" class="col">ウ</text><text x="328" y="32" fill="#bb9af7" class="col">コ</text><text x="328" y="50" fill="#bb9af7" class="col">ア</text><text x="328" y="68" fill="#bb9af7" class="col">カ</text><text x="328" y="86" fill="#bb9af7" class="col">コ</text><text x="328" y="104" fill="#bb9af7" class="col">ク</text><text x="328" y="122" fill="#bb9af7" class="col">エ</text><text x="328" y="140" fill="#bb9af7" class="col">ス</text><text x="328" y="158" fill="#bb9af7" class="col">タ</text><text x="328" y="176" fill="#bb9af7" class="col">ク</text><text x="328" y="194" fill="#bb9af7" class="col">ツ</text><text x="328" y="212" fill="#c0caf5" class="col">テ</text>
   </g>
   <g style="animation: fall4 2.5s 2.5s infinite linear; opacity:0.67;">
-    <text x="344" y="14" fill="#7dcfff" class="col">イ</text>
-    <text x="344" y="32" fill="#7dcfff" class="col">ウ</text>
-    <text x="344" y="50" fill="#7dcfff" class="col">キ</text>
-    <text x="344" y="68" fill="#7dcfff" class="col">イ</text>
-    <text x="344" y="86" fill="#7dcfff" class="col">イ</text>
-    <text x="344" y="104" fill="#7dcfff" class="col">タ</text>
-    <text x="344" y="122" fill="#7dcfff" class="col">ウ</text>
-    <text x="344" y="140" fill="#7dcfff" class="col">キ</text>
-    <text x="344" y="158" fill="#7dcfff" class="col">ク</text>
-    <text x="344" y="176" fill="#7dcfff" class="col">ツ</text>
-    <text x="344" y="194" fill="#7dcfff" class="col">オ</text>
-    <text x="344" y="212" fill="#c0caf5" class="col">ケ</text>
+    <text x="344" y="14" fill="#7dcfff" class="col">イ</text><text x="344" y="32" fill="#7dcfff" class="col">ウ</text><text x="344" y="50" fill="#7dcfff" class="col">キ</text><text x="344" y="68" fill="#7dcfff" class="col">イ</text><text x="344" y="86" fill="#7dcfff" class="col">イ</text><text x="344" y="104" fill="#7dcfff" class="col">タ</text><text x="344" y="122" fill="#7dcfff" class="col">ウ</text><text x="344" y="140" fill="#7dcfff" class="col">キ</text><text x="344" y="158" fill="#7dcfff" class="col">ク</text><text x="344" y="176" fill="#7dcfff" class="col">ツ</text><text x="344" y="194" fill="#7dcfff" class="col">オ</text><text x="344" y="212" fill="#c0caf5" class="col">ケ</text>
   </g>
   <g style="animation: fall1 4.2s 2.6s infinite linear; opacity:0.47;">
-    <text x="360" y="14" fill="#574faa" class="col">1</text>
-    <text x="360" y="32" fill="#574faa" class="col">ア</text>
-    <text x="360" y="50" fill="#574faa" class="col">テ</text>
-    <text x="360" y="68" fill="#574faa" class="col">シ</text>
-    <text x="360" y="86" fill="#574faa" class="col">キ</text>
-    <text x="360" y="104" fill="#574faa" class="col">1</text>
-    <text x="360" y="122" fill="#574faa" class="col">0</text>
-    <text x="360" y="140" fill="#574faa" class="col">ケ</text>
-    <text x="360" y="158" fill="#574faa" class="col">ウ</text>
-    <text x="360" y="176" fill="#574faa" class="col">テ</text>
-    <text x="360" y="194" fill="#574faa" class="col">キ</text>
-    <text x="360" y="212" fill="#c0caf5" class="col">エ</text>
+    <text x="360" y="14" fill="#574faa" class="col">1</text><text x="360" y="32" fill="#574faa" class="col">ア</text><text x="360" y="50" fill="#574faa" class="col">テ</text><text x="360" y="68" fill="#574faa" class="col">シ</text><text x="360" y="86" fill="#574faa" class="col">キ</text><text x="360" y="104" fill="#574faa" class="col">1</text><text x="360" y="122" fill="#574faa" class="col">0</text><text x="360" y="140" fill="#574faa" class="col">ケ</text><text x="360" y="158" fill="#574faa" class="col">ウ</text><text x="360" y="176" fill="#574faa" class="col">テ</text><text x="360" y="194" fill="#574faa" class="col">キ</text><text x="360" y="212" fill="#c0caf5" class="col">エ</text>
   </g>
   <g style="animation: fall3 3.9s 1.3s infinite linear; opacity:0.3;">
-    <text x="376" y="14" fill="#7aa2f7" class="col">ウ</text>
-    <text x="376" y="32" fill="#7aa2f7" class="col">タ</text>
-    <text x="376" y="50" fill="#7aa2f7" class="col">1</text>
-    <text x="376" y="68" fill="#7aa2f7" class="col">コ</text>
-    <text x="376" y="86" fill="#7aa2f7" class="col">チ</text>
-    <text x="376" y="104" fill="#7aa2f7" class="col">タ</text>
-    <text x="376" y="122" fill="#7aa2f7" class="col">ウ</text>
-    <text x="376" y="140" fill="#7aa2f7" class="col">シ</text>
-    <text x="376" y="158" fill="#7aa2f7" class="col">ウ</text>
-    <text x="376" y="176" fill="#7aa2f7" class="col">1</text>
-    <text x="376" y="194" fill="#7aa2f7" class="col">ク</text>
-    <text x="376" y="212" fill="#c0caf5" class="col">コ</text>
+    <text x="376" y="14" fill="#7aa2f7" class="col">ウ</text><text x="376" y="32" fill="#7aa2f7" class="col">タ</text><text x="376" y="50" fill="#7aa2f7" class="col">1</text><text x="376" y="68" fill="#7aa2f7" class="col">コ</text><text x="376" y="86" fill="#7aa2f7" class="col">チ</text><text x="376" y="104" fill="#7aa2f7" class="col">タ</text><text x="376" y="122" fill="#7aa2f7" class="col">ウ</text><text x="376" y="140" fill="#7aa2f7" class="col">シ</text><text x="376" y="158" fill="#7aa2f7" class="col">ウ</text><text x="376" y="176" fill="#7aa2f7" class="col">1</text><text x="376" y="194" fill="#7aa2f7" class="col">ク</text><text x="376" y="212" fill="#c0caf5" class="col">コ</text>
   </g>
   <g style="animation: fall0 4.7s 0.6s infinite linear; opacity:0.55;">
-    <text x="392" y="14" fill="#bb9af7" class="col">コ</text>
-    <text x="392" y="32" fill="#bb9af7" class="col">タ</text>
-    <text x="392" y="50" fill="#bb9af7" class="col">シ</text>
-    <text x="392" y="68" fill="#bb9af7" class="col">ツ</text>
-    <text x="392" y="86" fill="#bb9af7" class="col">ウ</text>
-    <text x="392" y="104" fill="#bb9af7" class="col">カ</text>
-    <text x="392" y="122" fill="#bb9af7" class="col">エ</text>
-    <text x="392" y="140" fill="#bb9af7" class="col">エ</text>
-    <text x="392" y="158" fill="#bb9af7" class="col">シ</text>
-    <text x="392" y="176" fill="#bb9af7" class="col">0</text>
-    <text x="392" y="194" fill="#bb9af7" class="col">エ</text>
-    <text x="392" y="212" fill="#c0caf5" class="col">ケ</text>
+    <text x="392" y="14" fill="#bb9af7" class="col">コ</text><text x="392" y="32" fill="#bb9af7" class="col">タ</text><text x="392" y="50" fill="#bb9af7" class="col">シ</text><text x="392" y="68" fill="#bb9af7" class="col">ツ</text><text x="392" y="86" fill="#bb9af7" class="col">ウ</text><text x="392" y="104" fill="#bb9af7" class="col">カ</text><text x="392" y="122" fill="#bb9af7" class="col">エ</text><text x="392" y="140" fill="#bb9af7" class="col">エ</text><text x="392" y="158" fill="#bb9af7" class="col">シ</text><text x="392" y="176" fill="#bb9af7" class="col">0</text><text x="392" y="194" fill="#bb9af7" class="col">エ</text><text x="392" y="212" fill="#c0caf5" class="col">ケ</text>
   </g>
   <g style="animation: fall3 4.5s 2.6s infinite linear; opacity:0.36;">
-    <text x="408" y="14" fill="#7aa2f7" class="col">エ</text>
-    <text x="408" y="32" fill="#7aa2f7" class="col">イ</text>
-    <text x="408" y="50" fill="#7aa2f7" class="col">サ</text>
-    <text x="408" y="68" fill="#7aa2f7" class="col">1</text>
-    <text x="408" y="86" fill="#7aa2f7" class="col">セ</text>
-    <text x="408" y="104" fill="#7aa2f7" class="col">カ</text>
-    <text x="408" y="122" fill="#7aa2f7" class="col">オ</text>
-    <text x="408" y="140" fill="#7aa2f7" class="col">ス</text>
-    <text x="408" y="158" fill="#7aa2f7" class="col">コ</text>
-    <text x="408" y="176" fill="#7aa2f7" class="col">ク</text>
-    <text x="408" y="194" fill="#7aa2f7" class="col">カ</text>
-    <text x="408" y="212" fill="#c0caf5" class="col">カ</text>
+    <text x="408" y="14" fill="#7aa2f7" class="col">エ</text><text x="408" y="32" fill="#7aa2f7" class="col">イ</text><text x="408" y="50" fill="#7aa2f7" class="col">サ</text><text x="408" y="68" fill="#7aa2f7" class="col">1</text><text x="408" y="86" fill="#7aa2f7" class="col">セ</text><text x="408" y="104" fill="#7aa2f7" class="col">カ</text><text x="408" y="122" fill="#7aa2f7" class="col">オ</text><text x="408" y="140" fill="#7aa2f7" class="col">ス</text><text x="408" y="158" fill="#7aa2f7" class="col">コ</text><text x="408" y="176" fill="#7aa2f7" class="col">ク</text><text x="408" y="194" fill="#7aa2f7" class="col">カ</text><text x="408" y="212" fill="#c0caf5" class="col">カ</text>
   </g>
   <g style="animation: fall0 4.2s 1.2s infinite linear; opacity:0.64;">
-    <text x="424" y="14" fill="#7dcfff" class="col">キ</text>
-    <text x="424" y="32" fill="#7dcfff" class="col">コ</text>
-    <text x="424" y="50" fill="#7dcfff" class="col">テ</text>
-    <text x="424" y="68" fill="#7dcfff" class="col">ソ</text>
-    <text x="424" y="86" fill="#7dcfff" class="col">サ</text>
-    <text x="424" y="104" fill="#7dcfff" class="col">ト</text>
-    <text x="424" y="122" fill="#7dcfff" class="col">タ</text>
-    <text x="424" y="140" fill="#7dcfff" class="col">ケ</text>
-    <text x="424" y="158" fill="#7dcfff" class="col">0</text>
-    <text x="424" y="176" fill="#7dcfff" class="col">イ</text>
-    <text x="424" y="194" fill="#7dcfff" class="col">キ</text>
-    <text x="424" y="212" fill="#c0caf5" class="col">エ</text>
+    <text x="424" y="14" fill="#7dcfff" class="col">キ</text><text x="424" y="32" fill="#7dcfff" class="col">コ</text><text x="424" y="50" fill="#7dcfff" class="col">テ</text><text x="424" y="68" fill="#7dcfff" class="col">ソ</text><text x="424" y="86" fill="#7dcfff" class="col">サ</text><text x="424" y="104" fill="#7dcfff" class="col">ト</text><text x="424" y="122" fill="#7dcfff" class="col">タ</text><text x="424" y="140" fill="#7dcfff" class="col">ケ</text><text x="424" y="158" fill="#7dcfff" class="col">0</text><text x="424" y="176" fill="#7dcfff" class="col">イ</text><text x="424" y="194" fill="#7dcfff" class="col">キ</text><text x="424" y="212" fill="#c0caf5" class="col">エ</text>
   </g>
   <g style="animation: fall4 4.9s 0.8s infinite linear; opacity:0.52;">
-    <text x="440" y="14" fill="#7aa2f7" class="col">コ</text>
-    <text x="440" y="32" fill="#7aa2f7" class="col">ケ</text>
-    <text x="440" y="50" fill="#7aa2f7" class="col">シ</text>
-    <text x="440" y="68" fill="#7aa2f7" class="col">ツ</text>
-    <text x="440" y="86" fill="#7aa2f7" class="col">ソ</text>
-    <text x="440" y="104" fill="#7aa2f7" class="col">イ</text>
-    <text x="440" y="122" fill="#7aa2f7" class="col">サ</text>
-    <text x="440" y="140" fill="#7aa2f7" class="col">チ</text>
-    <text x="440" y="158" fill="#7aa2f7" class="col">オ</text>
-    <text x="440" y="176" fill="#7aa2f7" class="col">キ</text>
-    <text x="440" y="194" fill="#7aa2f7" class="col">1</text>
-    <text x="440" y="212" fill="#c0caf5" class="col">シ</text>
+    <text x="440" y="14" fill="#7aa2f7" class="col">コ</text><text x="440" y="32" fill="#7aa2f7" class="col">ケ</text><text x="440" y="50" fill="#7aa2f7" class="col">シ</text><text x="440" y="68" fill="#7aa2f7" class="col">ツ</text><text x="440" y="86" fill="#7aa2f7" class="col">ソ</text><text x="440" y="104" fill="#7aa2f7" class="col">イ</text><text x="440" y="122" fill="#7aa2f7" class="col">サ</text><text x="440" y="140" fill="#7aa2f7" class="col">チ</text><text x="440" y="158" fill="#7aa2f7" class="col">オ</text><text x="440" y="176" fill="#7aa2f7" class="col">キ</text><text x="440" y="194" fill="#7aa2f7" class="col">1</text><text x="440" y="212" fill="#c0caf5" class="col">シ</text>
   </g>
   <g style="animation: fall0 3.8s 2.4s infinite linear; opacity:0.57;">
-    <text x="456" y="14" fill="#7aa2f7" class="col">ト</text>
-    <text x="456" y="32" fill="#7aa2f7" class="col">オ</text>
-    <text x="456" y="50" fill="#7aa2f7" class="col">コ</text>
-    <text x="456" y="68" fill="#7aa2f7" class="col">シ</text>
-    <text x="456" y="86" fill="#7aa2f7" class="col">ア</text>
-    <text x="456" y="104" fill="#7aa2f7" class="col">ト</text>
-    <text x="456" y="122" fill="#7aa2f7" class="col">ケ</text>
-    <text x="456" y="140" fill="#7aa2f7" class="col">ツ</text>
-    <text x="456" y="158" fill="#7aa2f7" class="col">ケ</text>
-    <text x="456" y="176" fill="#7aa2f7" class="col">ト</text>
-    <text x="456" y="194" fill="#7aa2f7" class="col">イ</text>
-    <text x="456" y="212" fill="#c0caf5" class="col">ク</text>
+    <text x="456" y="14" fill="#7aa2f7" class="col">ト</text><text x="456" y="32" fill="#7aa2f7" class="col">オ</text><text x="456" y="50" fill="#7aa2f7" class="col">コ</text><text x="456" y="68" fill="#7aa2f7" class="col">シ</text><text x="456" y="86" fill="#7aa2f7" class="col">ア</text><text x="456" y="104" fill="#7aa2f7" class="col">ト</text><text x="456" y="122" fill="#7aa2f7" class="col">ケ</text><text x="456" y="140" fill="#7aa2f7" class="col">ツ</text><text x="456" y="158" fill="#7aa2f7" class="col">ケ</text><text x="456" y="176" fill="#7aa2f7" class="col">ト</text><text x="456" y="194" fill="#7aa2f7" class="col">イ</text><text x="456" y="212" fill="#c0caf5" class="col">ク</text>
   </g>
   <g style="animation: fall4 3.3s 1.2s infinite linear; opacity:0.56;">
-    <text x="472" y="14" fill="#3d59a1" class="col">タ</text>
-    <text x="472" y="32" fill="#3d59a1" class="col">ウ</text>
-    <text x="472" y="50" fill="#3d59a1" class="col">オ</text>
-    <text x="472" y="68" fill="#3d59a1" class="col">シ</text>
-    <text x="472" y="86" fill="#3d59a1" class="col">ト</text>
-    <text x="472" y="104" fill="#3d59a1" class="col">サ</text>
-    <text x="472" y="122" fill="#3d59a1" class="col">ト</text>
-    <text x="472" y="140" fill="#3d59a1" class="col">エ</text>
-    <text x="472" y="158" fill="#3d59a1" class="col">ツ</text>
-    <text x="472" y="176" fill="#3d59a1" class="col">チ</text>
-    <text x="472" y="194" fill="#3d59a1" class="col">ク</text>
-    <text x="472" y="212" fill="#c0caf5" class="col">サ</text>
+    <text x="472" y="14" fill="#3d59a1" class="col">タ</text><text x="472" y="32" fill="#3d59a1" class="col">ウ</text><text x="472" y="50" fill="#3d59a1" class="col">オ</text><text x="472" y="68" fill="#3d59a1" class="col">シ</text><text x="472" y="86" fill="#3d59a1" class="col">ト</text><text x="472" y="104" fill="#3d59a1" class="col">サ</text><text x="472" y="122" fill="#3d59a1" class="col">ト</text><text x="472" y="140" fill="#3d59a1" class="col">エ</text><text x="472" y="158" fill="#3d59a1" class="col">ツ</text><text x="472" y="176" fill="#3d59a1" class="col">チ</text><text x="472" y="194" fill="#3d59a1" class="col">ク</text><text x="472" y="212" fill="#c0caf5" class="col">サ</text>
   </g>
   <g style="animation: fall4 4.6s 0.9s infinite linear; opacity:0.44;">
-    <text x="488" y="14" fill="#bb9af7" class="col">チ</text>
-    <text x="488" y="32" fill="#bb9af7" class="col">ツ</text>
-    <text x="488" y="50" fill="#bb9af7" class="col">テ</text>
-    <text x="488" y="68" fill="#bb9af7" class="col">ケ</text>
-    <text x="488" y="86" fill="#bb9af7" class="col">ス</text>
-    <text x="488" y="104" fill="#bb9af7" class="col">ス</text>
-    <text x="488" y="122" fill="#bb9af7" class="col">ス</text>
-    <text x="488" y="140" fill="#bb9af7" class="col">ト</text>
-    <text x="488" y="158" fill="#bb9af7" class="col">オ</text>
-    <text x="488" y="176" fill="#bb9af7" class="col">ソ</text>
-    <text x="488" y="194" fill="#bb9af7" class="col">セ</text>
-    <text x="488" y="212" fill="#c0caf5" class="col">エ</text>
+    <text x="488" y="14" fill="#bb9af7" class="col">チ</text><text x="488" y="32" fill="#bb9af7" class="col">ツ</text><text x="488" y="50" fill="#bb9af7" class="col">テ</text><text x="488" y="68" fill="#bb9af7" class="col">ケ</text><text x="488" y="86" fill="#bb9af7" class="col">ス</text><text x="488" y="104" fill="#bb9af7" class="col">ス</text><text x="488" y="122" fill="#bb9af7" class="col">ス</text><text x="488" y="140" fill="#bb9af7" class="col">ト</text><text x="488" y="158" fill="#bb9af7" class="col">オ</text><text x="488" y="176" fill="#bb9af7" class="col">ソ</text><text x="488" y="194" fill="#bb9af7" class="col">セ</text><text x="488" y="212" fill="#c0caf5" class="col">エ</text>
   </g>
   <g style="animation: fall0 3.2s 2.0s infinite linear; opacity:0.4;">
-    <text x="504" y="14" fill="#574faa" class="col">カ</text>
-    <text x="504" y="32" fill="#574faa" class="col">ト</text>
-    <text x="504" y="50" fill="#574faa" class="col">ク</text>
-    <text x="504" y="68" fill="#574faa" class="col">カ</text>
-    <text x="504" y="86" fill="#574faa" class="col">オ</text>
-    <text x="504" y="104" fill="#574faa" class="col">ウ</text>
-    <text x="504" y="122" fill="#574faa" class="col">0</text>
-    <text x="504" y="140" fill="#574faa" class="col">1</text>
-    <text x="504" y="158" fill="#574faa" class="col">カ</text>
-    <text x="504" y="176" fill="#574faa" class="col">セ</text>
-    <text x="504" y="194" fill="#574faa" class="col">ツ</text>
-    <text x="504" y="212" fill="#c0caf5" class="col">ア</text>
+    <text x="504" y="14" fill="#574faa" class="col">カ</text><text x="504" y="32" fill="#574faa" class="col">ト</text><text x="504" y="50" fill="#574faa" class="col">ク</text><text x="504" y="68" fill="#574faa" class="col">カ</text><text x="504" y="86" fill="#574faa" class="col">オ</text><text x="504" y="104" fill="#574faa" class="col">ウ</text><text x="504" y="122" fill="#574faa" class="col">0</text><text x="504" y="140" fill="#574faa" class="col">1</text><text x="504" y="158" fill="#574faa" class="col">カ</text><text x="504" y="176" fill="#574faa" class="col">セ</text><text x="504" y="194" fill="#574faa" class="col">ツ</text><text x="504" y="212" fill="#c0caf5" class="col">ア</text>
   </g>
   <g style="animation: fall3 3.5s 1.9s infinite linear; opacity:0.57;">
-    <text x="520" y="14" fill="#bb9af7" class="col">サ</text>
-    <text x="520" y="32" fill="#bb9af7" class="col">セ</text>
-    <text x="520" y="50" fill="#bb9af7" class="col">サ</text>
-    <text x="520" y="68" fill="#bb9af7" class="col">カ</text>
-    <text x="520" y="86" fill="#bb9af7" class="col">ウ</text>
-    <text x="520" y="104" fill="#bb9af7" class="col">テ</text>
-    <text x="520" y="122" fill="#bb9af7" class="col">0</text>
-    <text x="520" y="140" fill="#bb9af7" class="col">イ</text>
-    <text x="520" y="158" fill="#bb9af7" class="col">シ</text>
-    <text x="520" y="176" fill="#bb9af7" class="col">カ</text>
-    <text x="520" y="194" fill="#bb9af7" class="col">エ</text>
-    <text x="520" y="212" fill="#c0caf5" class="col">ソ</text>
+    <text x="520" y="14" fill="#bb9af7" class="col">サ</text><text x="520" y="32" fill="#bb9af7" class="col">セ</text><text x="520" y="50" fill="#bb9af7" class="col">サ</text><text x="520" y="68" fill="#bb9af7" class="col">カ</text><text x="520" y="86" fill="#bb9af7" class="col">ウ</text><text x="520" y="104" fill="#bb9af7" class="col">テ</text><text x="520" y="122" fill="#bb9af7" class="col">0</text><text x="520" y="140" fill="#bb9af7" class="col">イ</text><text x="520" y="158" fill="#bb9af7" class="col">シ</text><text x="520" y="176" fill="#bb9af7" class="col">カ</text><text x="520" y="194" fill="#bb9af7" class="col">エ</text><text x="520" y="212" fill="#c0caf5" class="col">ソ</text>
   </g>
   <g style="animation: fall3 2.6s 0.7s infinite linear; opacity:0.3;">
-    <text x="536" y="14" fill="#7aa2f7" class="col">ウ</text>
-    <text x="536" y="32" fill="#7aa2f7" class="col">ス</text>
-    <text x="536" y="50" fill="#7aa2f7" class="col">ト</text>
-    <text x="536" y="68" fill="#7aa2f7" class="col">ソ</text>
-    <text x="536" y="86" fill="#7aa2f7" class="col">タ</text>
-    <text x="536" y="104" fill="#7aa2f7" class="col">ツ</text>
-    <text x="536" y="122" fill="#7aa2f7" class="col">ケ</text>
-    <text x="536" y="140" fill="#7aa2f7" class="col">ス</text>
-    <text x="536" y="158" fill="#7aa2f7" class="col">ツ</text>
-    <text x="536" y="176" fill="#7aa2f7" class="col">ソ</text>
-    <text x="536" y="194" fill="#7aa2f7" class="col">シ</text>
-    <text x="536" y="212" fill="#c0caf5" class="col">タ</text>
+    <text x="536" y="14" fill="#7aa2f7" class="col">ウ</text><text x="536" y="32" fill="#7aa2f7" class="col">ス</text><text x="536" y="50" fill="#7aa2f7" class="col">ト</text><text x="536" y="68" fill="#7aa2f7" class="col">ソ</text><text x="536" y="86" fill="#7aa2f7" class="col">タ</text><text x="536" y="104" fill="#7aa2f7" class="col">ツ</text><text x="536" y="122" fill="#7aa2f7" class="col">ケ</text><text x="536" y="140" fill="#7aa2f7" class="col">ス</text><text x="536" y="158" fill="#7aa2f7" class="col">ツ</text><text x="536" y="176" fill="#7aa2f7" class="col">ソ</text><text x="536" y="194" fill="#7aa2f7" class="col">シ</text><text x="536" y="212" fill="#c0caf5" class="col">タ</text>
   </g>
   <g style="animation: fall3 4.7s 2.2s infinite linear; opacity:0.45;">
-    <text x="552" y="14" fill="#3d59a1" class="col">カ</text>
-    <text x="552" y="32" fill="#3d59a1" class="col">テ</text>
-    <text x="552" y="50" fill="#3d59a1" class="col">キ</text>
-    <text x="552" y="68" fill="#3d59a1" class="col">ソ</text>
-    <text x="552" y="86" fill="#3d59a1" class="col">セ</text>
-    <text x="552" y="104" fill="#3d59a1" class="col">テ</text>
-    <text x="552" y="122" fill="#3d59a1" class="col">カ</text>
-    <text x="552" y="140" fill="#3d59a1" class="col">キ</text>
-    <text x="552" y="158" fill="#3d59a1" class="col">ス</text>
-    <text x="552" y="176" fill="#3d59a1" class="col">ア</text>
-    <text x="552" y="194" fill="#3d59a1" class="col">ク</text>
-    <text x="552" y="212" fill="#c0caf5" class="col">カ</text>
+    <text x="552" y="14" fill="#3d59a1" class="col">カ</text><text x="552" y="32" fill="#3d59a1" class="col">テ</text><text x="552" y="50" fill="#3d59a1" class="col">キ</text><text x="552" y="68" fill="#3d59a1" class="col">ソ</text><text x="552" y="86" fill="#3d59a1" class="col">セ</text><text x="552" y="104" fill="#3d59a1" class="col">テ</text><text x="552" y="122" fill="#3d59a1" class="col">カ</text><text x="552" y="140" fill="#3d59a1" class="col">キ</text><text x="552" y="158" fill="#3d59a1" class="col">ス</text><text x="552" y="176" fill="#3d59a1" class="col">ア</text><text x="552" y="194" fill="#3d59a1" class="col">ク</text><text x="552" y="212" fill="#c0caf5" class="col">カ</text>
   </g>
   <g style="animation: fall2 3.3s 2.7s infinite linear; opacity:0.31;">
-    <text x="568" y="14" fill="#7aa2f7" class="col">カ</text>
-    <text x="568" y="32" fill="#7aa2f7" class="col">サ</text>
-    <text x="568" y="50" fill="#7aa2f7" class="col">ウ</text>
-    <text x="568" y="68" fill="#7aa2f7" class="col">オ</text>
-    <text x="568" y="86" fill="#7aa2f7" class="col">ア</text>
-    <text x="568" y="104" fill="#7aa2f7" class="col">シ</text>
-    <text x="568" y="122" fill="#7aa2f7" class="col">シ</text>
-    <text x="568" y="140" fill="#7aa2f7" class="col">ケ</text>
-    <text x="568" y="158" fill="#7aa2f7" class="col">タ</text>
-    <text x="568" y="176" fill="#7aa2f7" class="col">ス</text>
-    <text x="568" y="194" fill="#7aa2f7" class="col">シ</text>
-    <text x="568" y="212" fill="#c0caf5" class="col">1</text>
+    <text x="568" y="14" fill="#7aa2f7" class="col">カ</text><text x="568" y="32" fill="#7aa2f7" class="col">サ</text><text x="568" y="50" fill="#7aa2f7" class="col">ウ</text><text x="568" y="68" fill="#7aa2f7" class="col">オ</text><text x="568" y="86" fill="#7aa2f7" class="col">ア</text><text x="568" y="104" fill="#7aa2f7" class="col">シ</text><text x="568" y="122" fill="#7aa2f7" class="col">シ</text><text x="568" y="140" fill="#7aa2f7" class="col">ケ</text><text x="568" y="158" fill="#7aa2f7" class="col">タ</text><text x="568" y="176" fill="#7aa2f7" class="col">ス</text><text x="568" y="194" fill="#7aa2f7" class="col">シ</text><text x="568" y="212" fill="#c0caf5" class="col">1</text>
   </g>
   <g style="animation: fall1 4.6s 1.2s infinite linear; opacity:0.51;">
-    <text x="584" y="14" fill="#7aa2f7" class="col">0</text>
-    <text x="584" y="32" fill="#7aa2f7" class="col">チ</text>
-    <text x="584" y="50" fill="#7aa2f7" class="col">サ</text>
-    <text x="584" y="68" fill="#7aa2f7" class="col">セ</text>
-    <text x="584" y="86" fill="#7aa2f7" class="col">0</text>
-    <text x="584" y="104" fill="#7aa2f7" class="col">コ</text>
-    <text x="584" y="122" fill="#7aa2f7" class="col">ク</text>
-    <text x="584" y="140" fill="#7aa2f7" class="col">サ</text>
-    <text x="584" y="158" fill="#7aa2f7" class="col">シ</text>
-    <text x="584" y="176" fill="#7aa2f7" class="col">タ</text>
-    <text x="584" y="194" fill="#7aa2f7" class="col">タ</text>
-    <text x="584" y="212" fill="#c0caf5" class="col">ツ</text>
+    <text x="584" y="14" fill="#7aa2f7" class="col">0</text><text x="584" y="32" fill="#7aa2f7" class="col">チ</text><text x="584" y="50" fill="#7aa2f7" class="col">サ</text><text x="584" y="68" fill="#7aa2f7" class="col">セ</text><text x="584" y="86" fill="#7aa2f7" class="col">0</text><text x="584" y="104" fill="#7aa2f7" class="col">コ</text><text x="584" y="122" fill="#7aa2f7" class="col">ク</text><text x="584" y="140" fill="#7aa2f7" class="col">サ</text><text x="584" y="158" fill="#7aa2f7" class="col">シ</text><text x="584" y="176" fill="#7aa2f7" class="col">タ</text><text x="584" y="194" fill="#7aa2f7" class="col">タ</text><text x="584" y="212" fill="#c0caf5" class="col">ツ</text>
   </g>
   <g style="animation: fall1 3.7s 0.8s infinite linear; opacity:0.26;">
-    <text x="600" y="14" fill="#3d59a1" class="col">ケ</text>
-    <text x="600" y="32" fill="#3d59a1" class="col">ト</text>
-    <text x="600" y="50" fill="#3d59a1" class="col">ト</text>
-    <text x="600" y="68" fill="#3d59a1" class="col">サ</text>
-    <text x="600" y="86" fill="#3d59a1" class="col">エ</text>
-    <text x="600" y="104" fill="#3d59a1" class="col">ス</text>
-    <text x="600" y="122" fill="#3d59a1" class="col">ウ</text>
-    <text x="600" y="140" fill="#3d59a1" class="col">ツ</text>
-    <text x="600" y="158" fill="#3d59a1" class="col">タ</text>
-    <text x="600" y="176" fill="#3d59a1" class="col">0</text>
-    <text x="600" y="194" fill="#3d59a1" class="col">サ</text>
-    <text x="600" y="212" fill="#c0caf5" class="col">チ</text>
+    <text x="600" y="14" fill="#3d59a1" class="col">ケ</text><text x="600" y="32" fill="#3d59a1" class="col">ト</text><text x="600" y="50" fill="#3d59a1" class="col">ト</text><text x="600" y="68" fill="#3d59a1" class="col">サ</text><text x="600" y="86" fill="#3d59a1" class="col">エ</text><text x="600" y="104" fill="#3d59a1" class="col">ス</text><text x="600" y="122" fill="#3d59a1" class="col">ウ</text><text x="600" y="140" fill="#3d59a1" class="col">ツ</text><text x="600" y="158" fill="#3d59a1" class="col">タ</text><text x="600" y="176" fill="#3d59a1" class="col">0</text><text x="600" y="194" fill="#3d59a1" class="col">サ</text><text x="600" y="212" fill="#c0caf5" class="col">チ</text>
   </g>
   <g style="animation: fall4 4.2s 0.3s infinite linear; opacity:0.31;">
-    <text x="616" y="14" fill="#3d59a1" class="col">ス</text>
-    <text x="616" y="32" fill="#3d59a1" class="col">エ</text>
-    <text x="616" y="50" fill="#3d59a1" class="col">1</text>
-    <text x="616" y="68" fill="#3d59a1" class="col">キ</text>
-    <text x="616" y="86" fill="#3d59a1" class="col">サ</text>
-    <text x="616" y="104" fill="#3d59a1" class="col">ケ</text>
-    <text x="616" y="122" fill="#3d59a1" class="col">オ</text>
-    <text x="616" y="140" fill="#3d59a1" class="col">ス</text>
-    <text x="616" y="158" fill="#3d59a1" class="col">ケ</text>
-    <text x="616" y="176" fill="#3d59a1" class="col">ケ</text>
-    <text x="616" y="194" fill="#3d59a1" class="col">サ</text>
-    <text x="616" y="212" fill="#c0caf5" class="col">キ</text>
+    <text x="616" y="14" fill="#3d59a1" class="col">ス</text><text x="616" y="32" fill="#3d59a1" class="col">エ</text><text x="616" y="50" fill="#3d59a1" class="col">1</text><text x="616" y="68" fill="#3d59a1" class="col">キ</text><text x="616" y="86" fill="#3d59a1" class="col">サ</text><text x="616" y="104" fill="#3d59a1" class="col">ケ</text><text x="616" y="122" fill="#3d59a1" class="col">オ</text><text x="616" y="140" fill="#3d59a1" class="col">ス</text><text x="616" y="158" fill="#3d59a1" class="col">ケ</text><text x="616" y="176" fill="#3d59a1" class="col">ケ</text><text x="616" y="194" fill="#3d59a1" class="col">サ</text><text x="616" y="212" fill="#c0caf5" class="col">キ</text>
   </g>
   <g style="animation: fall3 3.1s 0.2s infinite linear; opacity:0.59;">
-    <text x="632" y="14" fill="#7aa2f7" class="col">1</text>
-    <text x="632" y="32" fill="#7aa2f7" class="col">コ</text>
-    <text x="632" y="50" fill="#7aa2f7" class="col">カ</text>
-    <text x="632" y="68" fill="#7aa2f7" class="col">テ</text>
-    <text x="632" y="86" fill="#7aa2f7" class="col">ア</text>
-    <text x="632" y="104" fill="#7aa2f7" class="col">テ</text>
-    <text x="632" y="122" fill="#7aa2f7" class="col">1</text>
-    <text x="632" y="140" fill="#7aa2f7" class="col">0</text>
-    <text x="632" y="158" fill="#7aa2f7" class="col">カ</text>
-    <text x="632" y="176" fill="#7aa2f7" class="col">オ</text>
-    <text x="632" y="194" fill="#7aa2f7" class="col">0</text>
-    <text x="632" y="212" fill="#c0caf5" class="col">ツ</text>
+    <text x="632" y="14" fill="#7aa2f7" class="col">1</text><text x="632" y="32" fill="#7aa2f7" class="col">コ</text><text x="632" y="50" fill="#7aa2f7" class="col">カ</text><text x="632" y="68" fill="#7aa2f7" class="col">テ</text><text x="632" y="86" fill="#7aa2f7" class="col">ア</text><text x="632" y="104" fill="#7aa2f7" class="col">テ</text><text x="632" y="122" fill="#7aa2f7" class="col">1</text><text x="632" y="140" fill="#7aa2f7" class="col">0</text><text x="632" y="158" fill="#7aa2f7" class="col">カ</text><text x="632" y="176" fill="#7aa2f7" class="col">オ</text><text x="632" y="194" fill="#7aa2f7" class="col">0</text><text x="632" y="212" fill="#c0caf5" class="col">ツ</text>
   </g>
   <g style="animation: fall1 3.1s 1.4s infinite linear; opacity:0.5;">
-    <text x="648" y="14" fill="#7aa2f7" class="col">オ</text>
-    <text x="648" y="32" fill="#7aa2f7" class="col">ス</text>
-    <text x="648" y="50" fill="#7aa2f7" class="col">キ</text>
-    <text x="648" y="68" fill="#7aa2f7" class="col">コ</text>
-    <text x="648" y="86" fill="#7aa2f7" class="col">エ</text>
-    <text x="648" y="104" fill="#7aa2f7" class="col">ツ</text>
-    <text x="648" y="122" fill="#7aa2f7" class="col">ツ</text>
-    <text x="648" y="140" fill="#7aa2f7" class="col">イ</text>
-    <text x="648" y="158" fill="#7aa2f7" class="col">エ</text>
-    <text x="648" y="176" fill="#7aa2f7" class="col">ク</text>
-    <text x="648" y="194" fill="#7aa2f7" class="col">イ</text>
-    <text x="648" y="212" fill="#c0caf5" class="col">チ</text>
+    <text x="648" y="14" fill="#7aa2f7" class="col">オ</text><text x="648" y="32" fill="#7aa2f7" class="col">ス</text><text x="648" y="50" fill="#7aa2f7" class="col">キ</text><text x="648" y="68" fill="#7aa2f7" class="col">コ</text><text x="648" y="86" fill="#7aa2f7" class="col">エ</text><text x="648" y="104" fill="#7aa2f7" class="col">ツ</text><text x="648" y="122" fill="#7aa2f7" class="col">ツ</text><text x="648" y="140" fill="#7aa2f7" class="col">イ</text><text x="648" y="158" fill="#7aa2f7" class="col">エ</text><text x="648" y="176" fill="#7aa2f7" class="col">ク</text><text x="648" y="194" fill="#7aa2f7" class="col">イ</text><text x="648" y="212" fill="#c0caf5" class="col">チ</text>
   </g>
   <g style="animation: fall0 4.8s 1.7s infinite linear; opacity:0.43;">
-    <text x="664" y="14" fill="#3d59a1" class="col">オ</text>
-    <text x="664" y="32" fill="#3d59a1" class="col">ア</text>
-    <text x="664" y="50" fill="#3d59a1" class="col">チ</text>
-    <text x="664" y="68" fill="#3d59a1" class="col">テ</text>
-    <text x="664" y="86" fill="#3d59a1" class="col">カ</text>
-    <text x="664" y="104" fill="#3d59a1" class="col">イ</text>
-    <text x="664" y="122" fill="#3d59a1" class="col">ク</text>
-    <text x="664" y="140" fill="#3d59a1" class="col">ト</text>
-    <text x="664" y="158" fill="#3d59a1" class="col">ツ</text>
-    <text x="664" y="176" fill="#3d59a1" class="col">イ</text>
-    <text x="664" y="194" fill="#3d59a1" class="col">チ</text>
-    <text x="664" y="212" fill="#c0caf5" class="col">1</text>
+    <text x="664" y="14" fill="#3d59a1" class="col">オ</text><text x="664" y="32" fill="#3d59a1" class="col">ア</text><text x="664" y="50" fill="#3d59a1" class="col">チ</text><text x="664" y="68" fill="#3d59a1" class="col">テ</text><text x="664" y="86" fill="#3d59a1" class="col">カ</text><text x="664" y="104" fill="#3d59a1" class="col">イ</text><text x="664" y="122" fill="#3d59a1" class="col">ク</text><text x="664" y="140" fill="#3d59a1" class="col">ト</text><text x="664" y="158" fill="#3d59a1" class="col">ツ</text><text x="664" y="176" fill="#3d59a1" class="col">イ</text><text x="664" y="194" fill="#3d59a1" class="col">チ</text><text x="664" y="212" fill="#c0caf5" class="col">1</text>
   </g>
   <g style="animation: fall2 3.8s 2.0s infinite linear; opacity:0.48;">
-    <text x="680" y="14" fill="#7aa2f7" class="col">ケ</text>
-    <text x="680" y="32" fill="#7aa2f7" class="col">0</text>
-    <text x="680" y="50" fill="#7aa2f7" class="col">シ</text>
-    <text x="680" y="68" fill="#7aa2f7" class="col">セ</text>
-    <text x="680" y="86" fill="#7aa2f7" class="col">イ</text>
-    <text x="680" y="104" fill="#7aa2f7" class="col">シ</text>
-    <text x="680" y="122" fill="#7aa2f7" class="col">コ</text>
-    <text x="680" y="140" fill="#7aa2f7" class="col">テ</text>
-    <text x="680" y="158" fill="#7aa2f7" class="col">ス</text>
-    <text x="680" y="176" fill="#7aa2f7" class="col">ウ</text>
-    <text x="680" y="194" fill="#7aa2f7" class="col">シ</text>
-    <text x="680" y="212" fill="#c0caf5" class="col">エ</text>
+    <text x="680" y="14" fill="#7aa2f7" class="col">ケ</text><text x="680" y="32" fill="#7aa2f7" class="col">0</text><text x="680" y="50" fill="#7aa2f7" class="col">シ</text><text x="680" y="68" fill="#7aa2f7" class="col">セ</text><text x="680" y="86" fill="#7aa2f7" class="col">イ</text><text x="680" y="104" fill="#7aa2f7" class="col">シ</text><text x="680" y="122" fill="#7aa2f7" class="col">コ</text><text x="680" y="140" fill="#7aa2f7" class="col">テ</text><text x="680" y="158" fill="#7aa2f7" class="col">ス</text><text x="680" y="176" fill="#7aa2f7" class="col">ウ</text><text x="680" y="194" fill="#7aa2f7" class="col">シ</text><text x="680" y="212" fill="#c0caf5" class="col">エ</text>
   </g>
   <g style="animation: fall4 4.9s 0.8s infinite linear; opacity:0.66;">
-    <text x="696" y="14" fill="#7aa2f7" class="col">セ</text>
-    <text x="696" y="32" fill="#7aa2f7" class="col">ス</text>
-    <text x="696" y="50" fill="#7aa2f7" class="col">シ</text>
-    <text x="696" y="68" fill="#7aa2f7" class="col">チ</text>
-    <text x="696" y="86" fill="#7aa2f7" class="col">キ</text>
-    <text x="696" y="104" fill="#7aa2f7" class="col">ケ</text>
-    <text x="696" y="122" fill="#7aa2f7" class="col">カ</text>
-    <text x="696" y="140" fill="#7aa2f7" class="col">ア</text>
-    <text x="696" y="158" fill="#7aa2f7" class="col">キ</text>
-    <text x="696" y="176" fill="#7aa2f7" class="col">ス</text>
-    <text x="696" y="194" fill="#7aa2f7" class="col">カ</text>
-    <text x="696" y="212" fill="#c0caf5" class="col">ス</text>
+    <text x="696" y="14" fill="#7aa2f7" class="col">セ</text><text x="696" y="32" fill="#7aa2f7" class="col">ス</text><text x="696" y="50" fill="#7aa2f7" class="col">シ</text><text x="696" y="68" fill="#7aa2f7" class="col">チ</text><text x="696" y="86" fill="#7aa2f7" class="col">キ</text><text x="696" y="104" fill="#7aa2f7" class="col">ケ</text><text x="696" y="122" fill="#7aa2f7" class="col">カ</text><text x="696" y="140" fill="#7aa2f7" class="col">ア</text><text x="696" y="158" fill="#7aa2f7" class="col">キ</text><text x="696" y="176" fill="#7aa2f7" class="col">ス</text><text x="696" y="194" fill="#7aa2f7" class="col">カ</text><text x="696" y="212" fill="#c0caf5" class="col">ス</text>
   </g>
   <g style="animation: fall4 4.0s 1.1s infinite linear; opacity:0.47;">
-    <text x="712" y="14" fill="#7aa2f7" class="col">ケ</text>
-    <text x="712" y="32" fill="#7aa2f7" class="col">エ</text>
-    <text x="712" y="50" fill="#7aa2f7" class="col">セ</text>
-    <text x="712" y="68" fill="#7aa2f7" class="col">オ</text>
-    <text x="712" y="86" fill="#7aa2f7" class="col">コ</text>
-    <text x="712" y="104" fill="#7aa2f7" class="col">キ</text>
-    <text x="712" y="122" fill="#7aa2f7" class="col">ケ</text>
-    <text x="712" y="140" fill="#7aa2f7" class="col">キ</text>
-    <text x="712" y="158" fill="#7aa2f7" class="col">ツ</text>
-    <text x="712" y="176" fill="#7aa2f7" class="col">キ</text>
-    <text x="712" y="194" fill="#7aa2f7" class="col">タ</text>
-    <text x="712" y="212" fill="#c0caf5" class="col">0</text>
+    <text x="712" y="14" fill="#7aa2f7" class="col">ケ</text><text x="712" y="32" fill="#7aa2f7" class="col">エ</text><text x="712" y="50" fill="#7aa2f7" class="col">セ</text><text x="712" y="68" fill="#7aa2f7" class="col">オ</text><text x="712" y="86" fill="#7aa2f7" class="col">コ</text><text x="712" y="104" fill="#7aa2f7" class="col">キ</text><text x="712" y="122" fill="#7aa2f7" class="col">ケ</text><text x="712" y="140" fill="#7aa2f7" class="col">キ</text><text x="712" y="158" fill="#7aa2f7" class="col">ツ</text><text x="712" y="176" fill="#7aa2f7" class="col">キ</text><text x="712" y="194" fill="#7aa2f7" class="col">タ</text><text x="712" y="212" fill="#c0caf5" class="col">0</text>
   </g>
   <g style="animation: fall4 4.9s 0.3s infinite linear; opacity:0.43;">
-    <text x="728" y="14" fill="#7aa2f7" class="col">タ</text>
-    <text x="728" y="32" fill="#7aa2f7" class="col">カ</text>
-    <text x="728" y="50" fill="#7aa2f7" class="col">セ</text>
-    <text x="728" y="68" fill="#7aa2f7" class="col">テ</text>
-    <text x="728" y="86" fill="#7aa2f7" class="col">セ</text>
-    <text x="728" y="104" fill="#7aa2f7" class="col">ス</text>
-    <text x="728" y="122" fill="#7aa2f7" class="col">0</text>
-    <text x="728" y="140" fill="#7aa2f7" class="col">ア</text>
-    <text x="728" y="158" fill="#7aa2f7" class="col">ク</text>
-    <text x="728" y="176" fill="#7aa2f7" class="col">カ</text>
-    <text x="728" y="194" fill="#7aa2f7" class="col">サ</text>
-    <text x="728" y="212" fill="#c0caf5" class="col">カ</text>
+    <text x="728" y="14" fill="#7aa2f7" class="col">タ</text><text x="728" y="32" fill="#7aa2f7" class="col">カ</text><text x="728" y="50" fill="#7aa2f7" class="col">セ</text><text x="728" y="68" fill="#7aa2f7" class="col">テ</text><text x="728" y="86" fill="#7aa2f7" class="col">セ</text><text x="728" y="104" fill="#7aa2f7" class="col">ス</text><text x="728" y="122" fill="#7aa2f7" class="col">0</text><text x="728" y="140" fill="#7aa2f7" class="col">ア</text><text x="728" y="158" fill="#7aa2f7" class="col">ク</text><text x="728" y="176" fill="#7aa2f7" class="col">カ</text><text x="728" y="194" fill="#7aa2f7" class="col">サ</text><text x="728" y="212" fill="#c0caf5" class="col">カ</text>
   </g>
   <g style="animation: fall2 4.2s 1.1s infinite linear; opacity:0.49;">
-    <text x="744" y="14" fill="#574faa" class="col">シ</text>
-    <text x="744" y="32" fill="#574faa" class="col">タ</text>
-    <text x="744" y="50" fill="#574faa" class="col">ケ</text>
-    <text x="744" y="68" fill="#574faa" class="col">コ</text>
-    <text x="744" y="86" fill="#574faa" class="col">ス</text>
-    <text x="744" y="104" fill="#574faa" class="col">キ</text>
-    <text x="744" y="122" fill="#574faa" class="col">ク</text>
-    <text x="744" y="140" fill="#574faa" class="col">キ</text>
-    <text x="744" y="158" fill="#574faa" class="col">カ</text>
-    <text x="744" y="176" fill="#574faa" class="col">イ</text>
-    <text x="744" y="194" fill="#574faa" class="col">オ</text>
-    <text x="744" y="212" fill="#c0caf5" class="col">ケ</text>
+    <text x="744" y="14" fill="#574faa" class="col">シ</text><text x="744" y="32" fill="#574faa" class="col">タ</text><text x="744" y="50" fill="#574faa" class="col">ケ</text><text x="744" y="68" fill="#574faa" class="col">コ</text><text x="744" y="86" fill="#574faa" class="col">ス</text><text x="744" y="104" fill="#574faa" class="col">キ</text><text x="744" y="122" fill="#574faa" class="col">ク</text><text x="744" y="140" fill="#574faa" class="col">キ</text><text x="744" y="158" fill="#574faa" class="col">カ</text><text x="744" y="176" fill="#574faa" class="col">イ</text><text x="744" y="194" fill="#574faa" class="col">オ</text><text x="744" y="212" fill="#c0caf5" class="col">ケ</text>
   </g>
   <g style="animation: fall0 4.4s 2.9s infinite linear; opacity:0.33;">
-    <text x="760" y="14" fill="#7aa2f7" class="col">オ</text>
-    <text x="760" y="32" fill="#7aa2f7" class="col">セ</text>
-    <text x="760" y="50" fill="#7aa2f7" class="col">キ</text>
-    <text x="760" y="68" fill="#7aa2f7" class="col">チ</text>
-    <text x="760" y="86" fill="#7aa2f7" class="col">ソ</text>
-    <text x="760" y="104" fill="#7aa2f7" class="col">ツ</text>
-    <text x="760" y="122" fill="#7aa2f7" class="col">ク</text>
-    <text x="760" y="140" fill="#7aa2f7" class="col">イ</text>
-    <text x="760" y="158" fill="#7aa2f7" class="col">オ</text>
-    <text x="760" y="176" fill="#7aa2f7" class="col">ク</text>
-    <text x="760" y="194" fill="#7aa2f7" class="col">カ</text>
-    <text x="760" y="212" fill="#c0caf5" class="col">コ</text>
+    <text x="760" y="14" fill="#7aa2f7" class="col">オ</text><text x="760" y="32" fill="#7aa2f7" class="col">セ</text><text x="760" y="50" fill="#7aa2f7" class="col">キ</text><text x="760" y="68" fill="#7aa2f7" class="col">チ</text><text x="760" y="86" fill="#7aa2f7" class="col">ソ</text><text x="760" y="104" fill="#7aa2f7" class="col">ツ</text><text x="760" y="122" fill="#7aa2f7" class="col">ク</text><text x="760" y="140" fill="#7aa2f7" class="col">イ</text><text x="760" y="158" fill="#7aa2f7" class="col">オ</text><text x="760" y="176" fill="#7aa2f7" class="col">ク</text><text x="760" y="194" fill="#7aa2f7" class="col">カ</text><text x="760" y="212" fill="#c0caf5" class="col">コ</text>
   </g>
   <g style="animation: fall1 3.3s 2.1s infinite linear; opacity:0.37;">
-    <text x="776" y="14" fill="#bb9af7" class="col">1</text>
-    <text x="776" y="32" fill="#bb9af7" class="col">タ</text>
-    <text x="776" y="50" fill="#bb9af7" class="col">ク</text>
-    <text x="776" y="68" fill="#bb9af7" class="col">ウ</text>
-    <text x="776" y="86" fill="#bb9af7" class="col">テ</text>
-    <text x="776" y="104" fill="#bb9af7" class="col">セ</text>
-    <text x="776" y="122" fill="#bb9af7" class="col">イ</text>
-    <text x="776" y="140" fill="#bb9af7" class="col">0</text>
-    <text x="776" y="158" fill="#bb9af7" class="col">チ</text>
-    <text x="776" y="176" fill="#bb9af7" class="col">ク</text>
-    <text x="776" y="194" fill="#bb9af7" class="col">セ</text>
-    <text x="776" y="212" fill="#c0caf5" class="col">セ</text>
+    <text x="776" y="14" fill="#bb9af7" class="col">1</text><text x="776" y="32" fill="#bb9af7" class="col">タ</text><text x="776" y="50" fill="#bb9af7" class="col">ク</text><text x="776" y="68" fill="#bb9af7" class="col">ウ</text><text x="776" y="86" fill="#bb9af7" class="col">テ</text><text x="776" y="104" fill="#bb9af7" class="col">セ</text><text x="776" y="122" fill="#bb9af7" class="col">イ</text><text x="776" y="140" fill="#bb9af7" class="col">0</text><text x="776" y="158" fill="#bb9af7" class="col">チ</text><text x="776" y="176" fill="#bb9af7" class="col">ク</text><text x="776" y="194" fill="#bb9af7" class="col">セ</text><text x="776" y="212" fill="#c0caf5" class="col">セ</text>
   </g>
   <g style="animation: fall3 3.4s 2.9s infinite linear; opacity:0.67;">
-    <text x="792" y="14" fill="#7dcfff" class="col">セ</text>
-    <text x="792" y="32" fill="#7dcfff" class="col">イ</text>
-    <text x="792" y="50" fill="#7dcfff" class="col">ア</text>
-    <text x="792" y="68" fill="#7dcfff" class="col">サ</text>
-    <text x="792" y="86" fill="#7dcfff" class="col">セ</text>
-    <text x="792" y="104" fill="#7dcfff" class="col">ア</text>
-    <text x="792" y="122" fill="#7dcfff" class="col">チ</text>
-    <text x="792" y="140" fill="#7dcfff" class="col">テ</text>
-    <text x="792" y="158" fill="#7dcfff" class="col">ト</text>
-    <text x="792" y="176" fill="#7dcfff" class="col">1</text>
-    <text x="792" y="194" fill="#7dcfff" class="col">ウ</text>
-    <text x="792" y="212" fill="#c0caf5" class="col">ウ</text>
+    <text x="792" y="14" fill="#7dcfff" class="col">セ</text><text x="792" y="32" fill="#7dcfff" class="col">イ</text><text x="792" y="50" fill="#7dcfff" class="col">ア</text><text x="792" y="68" fill="#7dcfff" class="col">サ</text><text x="792" y="86" fill="#7dcfff" class="col">セ</text><text x="792" y="104" fill="#7dcfff" class="col">ア</text><text x="792" y="122" fill="#7dcfff" class="col">チ</text><text x="792" y="140" fill="#7dcfff" class="col">テ</text><text x="792" y="158" fill="#7dcfff" class="col">ト</text><text x="792" y="176" fill="#7dcfff" class="col">1</text><text x="792" y="194" fill="#7dcfff" class="col">ウ</text><text x="792" y="212" fill="#c0caf5" class="col">ウ</text>
   </g>
   <g style="animation: fall4 4.9s 0.3s infinite linear; opacity:0.3;">
-    <text x="808" y="14" fill="#bb9af7" class="col">シ</text>
-    <text x="808" y="32" fill="#bb9af7" class="col">ツ</text>
-    <text x="808" y="50" fill="#bb9af7" class="col">ツ</text>
-    <text x="808" y="68" fill="#bb9af7" class="col">ツ</text>
-    <text x="808" y="86" fill="#bb9af7" class="col">カ</text>
-    <text x="808" y="104" fill="#bb9af7" class="col">ソ</text>
-    <text x="808" y="122" fill="#bb9af7" class="col">サ</text>
-    <text x="808" y="140" fill="#bb9af7" class="col">ス</text>
-    <text x="808" y="158" fill="#bb9af7" class="col">ス</text>
-    <text x="808" y="176" fill="#bb9af7" class="col">ク</text>
-    <text x="808" y="194" fill="#bb9af7" class="col">チ</text>
-    <text x="808" y="212" fill="#c0caf5" class="col">シ</text>
+    <text x="808" y="14" fill="#bb9af7" class="col">シ</text><text x="808" y="32" fill="#bb9af7" class="col">ツ</text><text x="808" y="50" fill="#bb9af7" class="col">ツ</text><text x="808" y="68" fill="#bb9af7" class="col">ツ</text><text x="808" y="86" fill="#bb9af7" class="col">カ</text><text x="808" y="104" fill="#bb9af7" class="col">ソ</text><text x="808" y="122" fill="#bb9af7" class="col">サ</text><text x="808" y="140" fill="#bb9af7" class="col">ス</text><text x="808" y="158" fill="#bb9af7" class="col">ス</text><text x="808" y="176" fill="#bb9af7" class="col">ク</text><text x="808" y="194" fill="#bb9af7" class="col">チ</text><text x="808" y="212" fill="#c0caf5" class="col">シ</text>
   </g>
   <g style="animation: fall2 3.9s 0.2s infinite linear; opacity:0.29;">
-    <text x="824" y="14" fill="#7aa2f7" class="col">オ</text>
-    <text x="824" y="32" fill="#7aa2f7" class="col">テ</text>
-    <text x="824" y="50" fill="#7aa2f7" class="col">オ</text>
-    <text x="824" y="68" fill="#7aa2f7" class="col">キ</text>
-    <text x="824" y="86" fill="#7aa2f7" class="col">ト</text>
-    <text x="824" y="104" fill="#7aa2f7" class="col">ア</text>
-    <text x="824" y="122" fill="#7aa2f7" class="col">エ</text>
-    <text x="824" y="140" fill="#7aa2f7" class="col">カ</text>
-    <text x="824" y="158" fill="#7aa2f7" class="col">エ</text>
-    <text x="824" y="176" fill="#7aa2f7" class="col">タ</text>
-    <text x="824" y="194" fill="#7aa2f7" class="col">ア</text>
-    <text x="824" y="212" fill="#c0caf5" class="col">エ</text>
+    <text x="824" y="14" fill="#7aa2f7" class="col">オ</text><text x="824" y="32" fill="#7aa2f7" class="col">テ</text><text x="824" y="50" fill="#7aa2f7" class="col">オ</text><text x="824" y="68" fill="#7aa2f7" class="col">キ</text><text x="824" y="86" fill="#7aa2f7" class="col">ト</text><text x="824" y="104" fill="#7aa2f7" class="col">ア</text><text x="824" y="122" fill="#7aa2f7" class="col">エ</text><text x="824" y="140" fill="#7aa2f7" class="col">カ</text><text x="824" y="158" fill="#7aa2f7" class="col">エ</text><text x="824" y="176" fill="#7aa2f7" class="col">タ</text><text x="824" y="194" fill="#7aa2f7" class="col">ア</text><text x="824" y="212" fill="#c0caf5" class="col">エ</text>
   </g>
   <g style="animation: fall0 3.5s 2.1s infinite linear; opacity:0.38;">
-    <text x="840" y="14" fill="#3d59a1" class="col">カ</text>
-    <text x="840" y="32" fill="#3d59a1" class="col">ク</text>
-    <text x="840" y="50" fill="#3d59a1" class="col">ク</text>
-    <text x="840" y="68" fill="#3d59a1" class="col">ス</text>
-    <text x="840" y="86" fill="#3d59a1" class="col">ア</text>
-    <text x="840" y="104" fill="#3d59a1" class="col">ト</text>
-    <text x="840" y="122" fill="#3d59a1" class="col">カ</text>
-    <text x="840" y="140" fill="#3d59a1" class="col">キ</text>
-    <text x="840" y="158" fill="#3d59a1" class="col">テ</text>
-    <text x="840" y="176" fill="#3d59a1" class="col">チ</text>
-    <text x="840" y="194" fill="#3d59a1" class="col">ト</text>
-    <text x="840" y="212" fill="#c0caf5" class="col">オ</text>
+    <text x="840" y="14" fill="#3d59a1" class="col">カ</text><text x="840" y="32" fill="#3d59a1" class="col">ク</text><text x="840" y="50" fill="#3d59a1" class="col">ク</text><text x="840" y="68" fill="#3d59a1" class="col">ス</text><text x="840" y="86" fill="#3d59a1" class="col">ア</text><text x="840" y="104" fill="#3d59a1" class="col">ト</text><text x="840" y="122" fill="#3d59a1" class="col">カ</text><text x="840" y="140" fill="#3d59a1" class="col">キ</text><text x="840" y="158" fill="#3d59a1" class="col">テ</text><text x="840" y="176" fill="#3d59a1" class="col">チ</text><text x="840" y="194" fill="#3d59a1" class="col">ト</text><text x="840" y="212" fill="#c0caf5" class="col">オ</text>
   </g>
   <g style="animation: fall3 2.8s 0.7s infinite linear; opacity:0.66;">
-    <text x="856" y="14" fill="#bb9af7" class="col">ウ</text>
-    <text x="856" y="32" fill="#bb9af7" class="col">ア</text>
-    <text x="856" y="50" fill="#bb9af7" class="col">1</text>
-    <text x="856" y="68" fill="#bb9af7" class="col">エ</text>
-    <text x="856" y="86" fill="#bb9af7" class="col">ク</text>
-    <text x="856" y="104" fill="#bb9af7" class="col">ツ</text>
-    <text x="856" y="122" fill="#bb9af7" class="col">チ</text>
-    <text x="856" y="140" fill="#bb9af7" class="col">ク</text>
-    <text x="856" y="158" fill="#bb9af7" class="col">ス</text>
-    <text x="856" y="176" fill="#bb9af7" class="col">イ</text>
-    <text x="856" y="194" fill="#bb9af7" class="col">ス</text>
-    <text x="856" y="212" fill="#c0caf5" class="col">ク</text>
+    <text x="856" y="14" fill="#bb9af7" class="col">ウ</text><text x="856" y="32" fill="#bb9af7" class="col">ア</text><text x="856" y="50" fill="#bb9af7" class="col">1</text><text x="856" y="68" fill="#bb9af7" class="col">エ</text><text x="856" y="86" fill="#bb9af7" class="col">ク</text><text x="856" y="104" fill="#bb9af7" class="col">ツ</text><text x="856" y="122" fill="#bb9af7" class="col">チ</text><text x="856" y="140" fill="#bb9af7" class="col">ク</text><text x="856" y="158" fill="#bb9af7" class="col">ス</text><text x="856" y="176" fill="#bb9af7" class="col">イ</text><text x="856" y="194" fill="#bb9af7" class="col">ス</text><text x="856" y="212" fill="#c0caf5" class="col">ク</text>
   </g>
   <g style="animation: fall3 4.9s 1.5s infinite linear; opacity:0.45;">
-    <text x="872" y="14" fill="#3d59a1" class="col">ツ</text>
-    <text x="872" y="32" fill="#3d59a1" class="col">1</text>
-    <text x="872" y="50" fill="#3d59a1" class="col">シ</text>
-    <text x="872" y="68" fill="#3d59a1" class="col">ケ</text>
-    <text x="872" y="86" fill="#3d59a1" class="col">ツ</text>
-    <text x="872" y="104" fill="#3d59a1" class="col">キ</text>
-    <text x="872" y="122" fill="#3d59a1" class="col">0</text>
-    <text x="872" y="140" fill="#3d59a1" class="col">ア</text>
-    <text x="872" y="158" fill="#3d59a1" class="col">カ</text>
-    <text x="872" y="176" fill="#3d59a1" class="col">ト</text>
-    <text x="872" y="194" fill="#3d59a1" class="col">チ</text>
-    <text x="872" y="212" fill="#c0caf5" class="col">チ</text>
+    <text x="872" y="14" fill="#3d59a1" class="col">ツ</text><text x="872" y="32" fill="#3d59a1" class="col">1</text><text x="872" y="50" fill="#3d59a1" class="col">シ</text><text x="872" y="68" fill="#3d59a1" class="col">ケ</text><text x="872" y="86" fill="#3d59a1" class="col">ツ</text><text x="872" y="104" fill="#3d59a1" class="col">キ</text><text x="872" y="122" fill="#3d59a1" class="col">0</text><text x="872" y="140" fill="#3d59a1" class="col">ア</text><text x="872" y="158" fill="#3d59a1" class="col">カ</text><text x="872" y="176" fill="#3d59a1" class="col">ト</text><text x="872" y="194" fill="#3d59a1" class="col">チ</text><text x="872" y="212" fill="#c0caf5" class="col">チ</text>
   </g>
 
-  <!-- Dark overlay for readability -->
+  <!-- Dark overlay -->
   <rect width="900" height="220" fill="rgba(13,15,30,0.45)"/>
 
-  <!-- Content -->
-  <text x="450" y="82" text-anchor="middle" font-family="monospace" font-size="12"
-    fill="#7dcfff" letter-spacing="6" style="animation: fadein 1s 0.3s both;">
-    // software engineer
-  </text>
-
-  <text x="450" y="130" text-anchor="middle" font-family="monospace" font-size="32" font-weight="700"
+  <!-- Hero content — vertically centered -->
+  <text x="450" y="128" text-anchor="middle" font-family="monospace" font-size="32" font-weight="700"
     fill="#7aa2f7" letter-spacing="4" style="animation: fadein 1s 0.7s both;">
-    Full-Stack<tspan fill="#bb9af7">.</tspan>dev
+    Software Engineer<tspan fill="#bb9af7">.</tspan>
   </text>
 
-  <rect x="441" y="104" width="3" height="20" fill="#7aa2f7"
+  <rect x="453" y="106" width="3" height="20" fill="#bb9af7"
     style="animation: blink 1s step-end infinite;"/>
 
   <text x="450" y="162" text-anchor="middle" font-family="monospace" font-size="11"
@@ -831,7 +217,7 @@
 
 </div>
 
-```typescript
+typescript
 const marsa = {
     location  : "Bandung, West Java, Indonesia",
     role      : "Software Engineer  ·  Full-Stack Developer",
@@ -842,7 +228,7 @@ const marsa = {
     openTo            : ["Full-Stack Roles", "Collaborations", "Cool Projects"],
     dailyStack        : ["Code", "Design", "Learn", "Repeat"],
 };
-```
+` ` `
 
 <br/>
 
@@ -1008,8 +394,6 @@ const marsa = {
 </div>
 
 <br/>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:0d0f1e&height=100&section=footer&text=Thanks+for+visiting!&fontSize=15&fontAlignY=65&fontColor=7aa2f7&desc=Let%27s+build+something+amazing+together&descAlignY=50&descAlign=50&descColor=565f89" />
