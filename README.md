@@ -1,29 +1,34 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=14,19,20&text=&animation=fadeIn&fontColor=7aa2f7" />
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;Building+end-to-end+applications;React+%7C+Next.js+%7C+Vue+%7C+Laravel+%7C+Express;Code+with+purpose%2C+ship+with+pride+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%8C%99" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=14,19,20&text=Software+Engineer&fontSize=38&fontColor=c0caf5&animation=fadeIn&fontAlignY=50" width="100%" alt="header"/>
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%7C+2%2B+years+shipping;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Express+%E2%80%A2+PostgreSQL;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Android;Code+with+purpose%2C+ship+with+pride" alt="Typing SVG" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=lyramor&label=Profile+Views&color=7aa2f7&style=flat-square" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/lyramor?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b2e" alt="followers" />
 
 </div>
 
+<br/>
+
 ---
 
-## About Me
+```
+ ╔══════════════════════════════════════════════════════╗
+ ║              INITIALIZING PROFILE.EXE               ║
+ ╚══════════════════════════════════════════════════════╝
+```
 
 ```typescript
 const marsa = {
-    location : "Bandung, West Java, Indonesia",
-    role     : "Software Engineer · Full-Stack Developer",
-    passion  : "Building things that matter, pixel by pixel",
+    location  : "Bandung, West Java, Indonesia",
+    role      : "Software Engineer  ·  Full-Stack Developer",
+    passion   : "Building things that matter, pixel by pixel",
     philosophy: "Code with purpose, ship with pride",
 
     currentlyLearning : ["TypeScript", "Next.js", "Advanced Laravel", "Flutter"],
@@ -32,27 +37,31 @@ const marsa = {
 };
 ```
 
+<br/>
+
 ---
 
-## Current Roles
+## ──────── [ CURRENT ROLES ] ────────
 
 <div align="center">
 
-| Role | Organization |
-|------|-------------|
-| ![badge](https://img.shields.io/badge/Laboratory_Assistant-7aa2f7?style=flat-square&labelColor=1a1b2e) | Informatics Engineering |
-| ![badge](https://img.shields.io/badge/Core_Team_Member-Google_Developer_on_Campus-bb9af7?style=flat-square&labelColor=1a1b2e) | Pasundan University |
-| ![badge](https://img.shields.io/badge/Full--Stack_Engineer-2%2B_Years_Experience-9ece6a?style=flat-square&labelColor=1a1b2e) | Open to Opportunities |
+| Role | Where |
+|:----:|:-----:|
+| ![](https://img.shields.io/badge/Laboratory_Assistant-Teaching_Practicum_1-7aa2f7?style=flat-square&labelColor=1a1b2e) | Informatics Engineering |
+| ![](https://img.shields.io/badge/Core_Team-Google_Developer_on_Campus-bb9af7?style=flat-square&labelColor=1a1b2e) | Pasundan University |
+| ![](https://img.shields.io/badge/Full--Stack_Engineer-2%2B_Years_Shipping-9ece6a?style=flat-square&labelColor=1a1b2e) | Open to Opportunities |
 
 </div>
 
+<br/>
+
 ---
 
-## Tech Arsenal
+## ──────── [ TECH ARSENAL ] ────────
 
 <div align="center">
 
-### Frontend
+**— Frontend —**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,7 +73,7 @@ const marsa = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
+**— Backend & Database —**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -73,14 +82,14 @@ const marsa = {
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Mobile
+**— Mobile —**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-### Design & Tools
+**— Design & Tools —**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -89,9 +98,11 @@ const marsa = {
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Analytics
+## ──────── [ GITHUB ANALYTICS ] ────────
 
 <div align="center">
 
@@ -104,44 +115,50 @@ const marsa = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyramor&theme=tokyonight&cache_seconds=1800&border_radius=8" alt="lyramor streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyramor&theme=tokyonight&cache_seconds=1800&border_radius=8" alt="streak stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lyramor&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&cache_seconds=1800" alt="lyramor trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lyramor&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&cache_seconds=1800" alt="trophies" />
 </div>
+
+<br/>
 
 ---
 
-## Contribution Graph
+## ──────── [ CONTRIBUTION GRAPH ] ────────
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyramor&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="contribution graph" />
 </div>
 
+<br/>
+
 ---
 
-## Achievements
+## ──────── [ ACHIEVEMENTS ] ────────
 
 <div align="center">
 
-![gold](https://img.shields.io/badge/1st_Place-Web_Dev_Competition_(Team)_·_Campus-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![](https://img.shields.io/badge/%F0%9F%A5%87_1st_Place-Web_Dev_Competition_(Team)_·_Campus-FFD700?style=for-the-badge&labelColor=1a1b2e)
 
-![scholarship](https://img.shields.io/badge/Jabar_Future_Leader-Scholarship_Recipient_2023-bb9af7?style=for-the-badge&logo=academia&logoColor=white)
+![](https://img.shields.io/badge/%F0%9F%8E%93_Scholarship-Jabar_Future_Leader_2023-bb9af7?style=for-the-badge&labelColor=1a1b2e)
 
-![gdc](https://img.shields.io/badge/Google_Developer_on_Campus-Core_Team_Member-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/%F0%9F%8C%90_Google_Developer_on_Campus-Core_Team_Member-4285F4?style=for-the-badge&labelColor=1a1b2e&logo=google&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-## Let's Connect
+## ──────── [ LET'S CONNECT ] ────────
 
 <div align="center">
 
-*Always excited to work on interesting projects and meet fellow engineers!*
+*Always down for interesting projects and tech discussions*
 
 <br/>
 
@@ -151,20 +168,20 @@ const marsa = {
 
 <br/>
 
-![open](https://img.shields.io/badge/Open_To-Full--Stack_Roles-7aa2f7?style=flat-square&labelColor=1a1b2e)
+![](https://img.shields.io/badge/Open_To-Full--Stack_Roles-7aa2f7?style=flat-square&labelColor=1a1b2e)
 &nbsp;
-![collab](https://img.shields.io/badge/Open_To-Collaborations-bb9af7?style=flat-square&labelColor=1a1b2e)
+![](https://img.shields.io/badge/Open_To-Collaborations-bb9af7?style=flat-square&labelColor=1a1b2e)
 &nbsp;
-![talk](https://img.shields.io/badge/Open_To-Tech_Discussions-9ece6a?style=flat-square&labelColor=1a1b2e)
+![](https://img.shields.io/badge/Open_To-Tech_Discussions-9ece6a?style=flat-square&labelColor=1a1b2e)
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=16&fontAlignY=65&fontColor=7aa2f7&desc=Let%27s+build+something+amazing+together!&descAlignY=50&descAlign=50" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:0d0f1e&height=100&section=footer&text=Thanks+for+visiting!&fontSize=15&fontAlignY=65&fontColor=7aa2f7&desc=Let%27s+build+something+amazing+together&descAlignY=50&descAlign=50&descColor=565f89" />
 
-<div align="center">
-  <i>from <a href="https://github.com/lyramor">lyramor</a> with love</i>
+  <sub>from <a href="https://github.com/lyramor">lyramor</a> with love</sub>
 </div>
