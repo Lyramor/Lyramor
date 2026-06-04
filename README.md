@@ -18,11 +18,11 @@
 
 ---
 
-```
- ╔══════════════════════════════════════════════════════╗
- ║              INITIALIZING PROFILE.EXE               ║
- ╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+### ✦ ABOUT ME ✦
+
+</div>
 
 ```typescript
 const marsa = {
@@ -118,22 +118,22 @@ const marsa = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyramor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyramor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyramor&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyramor&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lyramor&theme=tokyonight&border_radius=8&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyramor&theme=tokyonight&cache_seconds=1800" alt="streak stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lyramor&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7&cache_seconds=1800" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lyramor&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800" alt="trophies" />
 </div>
 
 <br/>
