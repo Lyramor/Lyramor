@@ -41,7 +41,11 @@ const marsa = {
 
 ---
 
-## ──────── [ CURRENT ROLES ] ────────
+<div align="center">
+
+### ✦ CURRENT ROLES ✦
+
+</div>
 
 <div align="center">
 
@@ -57,7 +61,11 @@ const marsa = {
 
 ---
 
-## ──────── [ TECH ARSENAL ] ────────
+<div align="center">
+
+### ✦ TECH ARSENAL ✦
+
+</div>
 
 <div align="center">
 
@@ -102,20 +110,24 @@ const marsa = {
 
 ---
 
-## ──────── [ GITHUB ANALYTICS ] ────────
+<div align="center">
+
+### ✦ GITHUB ANALYTICS ✦
+
+</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyramor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&border_radius=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyramor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=false"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyramor&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800&border_radius=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyramor&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=false"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyramor&theme=tokyonight&cache_seconds=1800&border_radius=8" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=lyramor&theme=tokyonight&border_radius=8&hide_border=false" alt="streak stats" />
 </div>
 
 <br/>
@@ -128,7 +140,11 @@ const marsa = {
 
 ---
 
-## ──────── [ CONTRIBUTION GRAPH ] ────────
+<div align="center">
+
+### ✦ CONTRIBUTION GRAPH ✦
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyramor&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="contribution graph" />
@@ -138,7 +154,11 @@ const marsa = {
 
 ---
 
-## ──────── [ ACHIEVEMENTS ] ────────
+<div align="center">
+
+### ✦ ACHIEVEMENTS ✦
+
+</div>
 
 <div align="center">
 
@@ -154,7 +174,11 @@ const marsa = {
 
 ---
 
-## ──────── [ LET'S CONNECT ] ────────
+<div align="center">
+
+### ✦ LET'S CONNECT ✦
+
+</div>
 
 <div align="center">
 
