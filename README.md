@@ -1,9 +1,12 @@
+<h1 align="center">Muhamad Marsa Nur Jaman</h1>
+<p align="center">Fullstack developer, Bandung</p>
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=lyramor&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4" alt="lyramor hero visual" />
+  <img src="https://www.gitskins.com/api/section/galaxy?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4" alt="lyramor repo galaxy" width="100%" />
 </p>
 
 <p align="center">
-Fullstack developer from Bandung. Laravel and PHP on the back, React with TypeScript and Tailwind on the front, PostgreSQL underneath.<br/>
+Laravel and PHP on the back, React with TypeScript and Tailwind on the front, PostgreSQL underneath.<br/>
 Most of what I build is a web application that someone has to use at work, so I care about whether it holds up after it ships.
 </p>
 
@@ -13,29 +16,19 @@ Most of what I build is a web application that someone has to use at work, so I 
   &nbsp;·&nbsp; Available now
 </p>
 
-## The city I built this year
+<p align="center"><sub>The galaxy above counts what GitHub shows in public. The whole census, private repositories included, is <b>1,119 commits</b> across <b>45 repositories</b>, 27 of them public and 18 private.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## What moves the work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=lyramor&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4" alt="lyramor city visual" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&items=Laravel%20and%20React%3A%3AThe%20stack%20I%20work%20in%20daily%7CTests%20and%20analysis%3A%3ACoverage%2C%20PHPStan%2C%20SonarQube%7CShipping%20it%20myself%3A%3AVPS%2C%20nginx%2C%20CI%2C%20keeping%20it%20up&variant=wow" alt="what moves the work" width="100%" />
 </p>
 
-<p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
 
-## Population
-
-The city above only counts what GitHub shows in public. Here is the whole census, private repositories included.
-
-| | |
-|---|---|
-| Commits authored | **1,119** across 2023 to 2026 |
-| Repositories owned | **45** &nbsp;·&nbsp; 27 public, 18 private |
-| On GitHub since | February 2023 |
-
-| Year | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|
-| Commits | 27 | 79 | 194 | **819** |
-
-<sub>Measured 26 October 2026 with the GitHub contributions API and per repository commit counts. 2026 runs to that date.</sub>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 ## Landmarks
 
@@ -65,9 +58,39 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 | Bugs, vulnerabilities, security hotspots | **0**, across the entire history |
 | Ratings | A / A / A |
 
-<sub>SonarQube recap of 21 October 2026, project `railfuel-frontend`, window 31 August to 21 October 2026. Coverage started at 0.0%.</sub>
+<sub>SonarQube recap of 21 October 2026, project <code>railfuel-frontend</code>, window 31 August to 21 October 2026. Coverage started at 0.0%.</sub>
 
-## What I build with
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## Built, shipped, shared
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&repos=Lyramor%2Frespon-checklist-maintenance%2CNaramakna%2Fnaramakna.id%2CApcomSolutions%2FApcoms&variant=wow" alt="project constellation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&repos=Lyramor%2Frespon-checklist-maintenance%2CNaramakna%2Fnaramakna.id%2CApcomSolutions%2FApcoms&variant=wow-timeline" alt="project launch timeline" width="100%" />
+</p>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/Naramakna/naramakna.id">naramakna.id</a></strong></p><p>News portal. I wrote the frontend in Next.js and the Express backend behind it.</p><p><sub>TypeScript</sub></p></td>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/ApcomSolutions/Apcoms">Apcoms</a></strong></p><p>Company website for Apcoms Utama, with the article and admin side.</p><p><sub>JavaScript</sub></p></td>
+<td width="33%" valign="top"><p><strong><a href="https://github.com/Lyramor/respon-checklist-maintenance">respon-checklist-maintenance</a></strong></p><p>Maintenance checklist for an HCA area, with a monthly Excel report. Mine start to finish.</p><p><sub>Laravel, Inertia, React, PostgreSQL</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>Only public repositories can be drawn here. The client work above is on a private GitLab.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## Elements
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&variant=wow" alt="technology spectrum" width="100%" />
+</p>
+
+<p align="center"><sub>That spectrum weighs my public repositories by bytes, so it reads heavier on coursework than on work. What the working day actually looks like is below.</sub></p>
 
 **Every day.** PHP · Laravel · React · TypeScript · Tailwind · Inertia · Livewire · Filament · Blade · PostgreSQL · MySQL · Redis · Vite
 
@@ -78,6 +101,18 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 **Also in the toolbox.** Bun · Elysia · Drizzle · Zustand · Python · Leaflet · three.js · DomPDF · Ollama
 
 **Used before, on a real project or in the lab.** Next.js · Express.js · Vue · Java · Spring Boot · Flutter · Dart · Kotlin · C# with Unity
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## The trail behind the work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&variant=wow" alt="contribution energy field" width="100%" />
+</p>
+
+<p align="center"><sub>175 active days and a 153 day streak, in the year to 26 October 2026. Public repositories only, so the real year is busier.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 ## Where I have worked
 
@@ -92,9 +127,17 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 
 Alongside that: Web Curriculum Developer at GDGOC Universitas Pasundan since November 2024, and Jabar Future Leaders Scholarship awardee, 2023.
 
-## Visit
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<p align="center">
+<div align="center">
+
+## Transmission
+
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+
+<img src="https://www.gitskins.com/api/section/social?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&website=https%3A%2F%2Fcyliatech.my.id%2F&variant=wow" alt="contact links" width="100%" />
+
+<p>
   <a href="https://cyliatech.my.id/"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Lyramor"><b>GitHub</b></a>
@@ -108,4 +151,6 @@ Alongside that: Web Curriculum Developer at GDGOC Universitas Pasundan since Nov
   <a href="mailto:mmarsa2435@gmail.com"><b>Email</b></a>
 </p>
 
-<p align="center"><sub>Muhamad Marsa Nur Jaman · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p><sub>Muhamad Marsa Nur Jaman · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+</div>
