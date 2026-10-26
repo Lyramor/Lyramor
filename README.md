@@ -2,7 +2,7 @@
 <p align="center">Fullstack developer, Bandung</p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4" alt="lyramor repo galaxy" width="100%" />
+  <img src="assets/galaxy.svg" alt="lyramor repo galaxy" width="100%" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Most of what I build is a web application that someone has to use at work, so I 
 ## What moves the work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&items=Laravel%20and%20React%3A%3AThe%20stack%20I%20work%20in%20daily%7CTests%20and%20analysis%3A%3ACoverage%2C%20PHPStan%2C%20SonarQube%7CShipping%20it%20myself%3A%3AVPS%2C%20nginx%2C%20CI%2C%20keeping%20it%20up&variant=wow" alt="what moves the work" width="100%" />
+  <img src="assets/highlights.svg" alt="what moves the work" width="100%" />
 </p>
 
 <p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
@@ -65,11 +65,11 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 ## Built, shipped, shared
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&repos=Lyramor%2Frespon-checklist-maintenance%2CNaramakna%2Fnaramakna.id%2CApcomSolutions%2FApcoms&variant=wow" alt="project constellation" width="100%" />
+  <img src="assets/projects.svg" alt="project constellation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&repos=Lyramor%2Frespon-checklist-maintenance%2CNaramakna%2Fnaramakna.id%2CApcomSolutions%2FApcoms&variant=wow-timeline" alt="project launch timeline" width="100%" />
+  <img src="assets/timeline.svg" alt="project launch timeline" width="100%" />
 </p>
 
 <table width="100%">
@@ -87,7 +87,7 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 ## Elements
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&variant=wow" alt="technology spectrum" width="100%" />
+  <img src="assets/stack.svg" alt="technology spectrum" width="100%" />
 </p>
 
 <p align="center"><sub>That spectrum weighs my public repositories by bytes, so it reads heavier on coursework than on work. What the working day actually looks like is below.</sub></p>
@@ -104,13 +104,13 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## The trail behind the work
+## The city I built this year
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&variant=wow" alt="contribution energy field" width="100%" />
+  <img src="assets/city.svg" alt="lyramor contribution city" width="100%" />
 </p>
 
-<p align="center"><sub>175 active days and a 153 day streak, in the year to 26 October 2026. Public repositories only, so the real year is busier.</sub></p>
+<p align="center"><sub>Every building is a day; taller means more contributions. It counts public repositories only, so the real year is busier than the skyline.</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
@@ -135,7 +135,7 @@ Alongside that: Web Curriculum Developer at GDGOC Universitas Pasundan since Nov
 
 <p>I like working with people who care about craft, context, and shipping the useful version.</p>
 
-<img src="https://www.gitskins.com/api/section/social?username=lyramor&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125558416%3Fu%3Dee1321ea49abb4298ea8c8750de375ee0801f4f5%26v%3D4&website=https%3A%2F%2Fcyliatech.my.id%2F&variant=wow" alt="contact links" width="100%" />
+<img src="assets/social.svg" alt="contact links" width="100%" />
 
 <p>
   <a href="https://cyliatech.my.id/"><b>Portfolio</b></a>
