@@ -29,7 +29,6 @@ The city above only counts what GitHub shows in public. Here is the whole census
 |---|---|
 | Commits authored | **1,119** across 2023 to 2026 |
 | Repositories owned | **45** &nbsp;·&nbsp; 27 public, 18 private |
-| Share of my own repositories | **1,031 of 1,439 commits**, 71.6% |
 | On GitHub since | February 2023 |
 
 | Year | 2023 | 2024 | 2025 | 2026 |
@@ -40,36 +39,19 @@ The city above only counts what GitHub shows in public. Here is the whole census
 
 ## Landmarks
 
-Client work lives on a private GitLab, so none of it is browsable here. The share column is what `git log --author` says, not what I remember.
+Most of this was built for clients through PT Titik Terang and Krevo Studio, and it lives on a private GitLab, so none of it is browsable here. The tag next to each name is the part I was responsible for.
 
-### Built for clients, through PT Titik Terang and Krevo Studio
-
-| Project | My share | What it is |
-|---|---|---|
-| **RailFuel** &nbsp;`frontend` | 365 / 589 | Diesel reservation, dispensing and realization for KAI locomotives, with QR scanned field realization and a publicly verifiable daily Berita Acara |
-| **BWI E-Service** | 222 / 297 | National waqf administration for Badan Wakaf Indonesia: nazhir registration and certification, land and cash waqf, tiered verification, statutory reporting |
-| **Rapor Dosen** | 133 / 637 | Two modules of a faculty management system. The Whistleblower module is registered as a software copyright, number 001131074 |
-| **Gluck Market Place** | 85 / 156 | Storefront and custom admin panel for a single brand fashion label, with Midtrans payment and RajaOngkir shipping |
-| **Jejak Jalur** | 78 / 386 | Places to visit and eat, mapped from the nearest train station. 502 stations and 270+ destinations across Java. **1st place, InFest 2026** |
-| **Haze** &nbsp;`POS` | 45 / 158 | Point of sale and inventory for vape shops. I own the reporting and product layer: daily and shift reports, gross profit, sell in and sell out per item |
-| **codingin.id** | 27 / 46 | Company profile and lead generation for a dev agency, with a multi step quote builder and order tracking |
-| **SAKTI** &nbsp;`PPKPT` | 18 / 222 | The campus module for preventing and handling violence in higher education |
-| **KAI Freight Intelligence** | 10 / 395 | A freight commodity platform. My part was quality and reliability only: I raised PHP new code coverage from 58.7% to 89.9% and closed 136 SonarQube issues without disabling a rule |
-
-### Mine, start to finish
-
-| Project | My share | What it is |
-|---|---|---|
-| **cylia** | 645 / 645 | My largest single codebase by commits. Dart, private |
-| **mmarsanj** | 82 / 82 | This portfolio. Laravel, Inertia with SSR, React 19, PostgreSQL with bilingual columns. Live at [cyliatech.my.id](https://cyliatech.my.id/) |
-| **Ruang Jilid** | 2 / 2 | A photo shelf in the browser. Every photo becomes a cloth bound volume on a 3D shelf, and no file ever leaves the tab |
-
-### Open on GitHub
-
-| Project | My share | What it is |
-|---|---|---|
-| [naramakna.id](https://github.com/Naramakna/naramakna.id) | 26 / 134 | News portal. Second of four contributors |
-| [Apcoms](https://github.com/ApcomSolutions/Apcoms) | 25 / 92 | Company website. First of two contributors |
+| Project | What it is |
+|---|---|
+| **RailFuel** &nbsp;`frontend` | Diesel reservation, dispensing and realization for KAI locomotives, with QR scanned field realization and a publicly verifiable daily Berita Acara |
+| **BWI E-Service** &nbsp;`lead developer` | National waqf administration for Badan Wakaf Indonesia: nazhir registration and certification, land and cash waqf, tiered verification, statutory reporting |
+| **Rapor Dosen** &nbsp;`two modules` | Whistleblower and Sarpra, inside a faculty management system. The Whistleblower module is registered as a software copyright, number 001131074 |
+| **Gluck Market Place** &nbsp;`frontend` | Storefront and custom admin panel for a single brand fashion label, with Midtrans payment and RajaOngkir shipping |
+| **Jejak Jalur** &nbsp;`frontend and maps` | Places to visit and eat, mapped from the nearest train station. 502 stations and 270+ destinations across Java. **1st place, InFest 2026** |
+| **Haze** &nbsp;`reporting and product` | Point of sale and inventory for vape shops. Daily and shift reports, gross profit, sell in and sell out per item, stock per variant |
+| **codingin.id** &nbsp;`frontend` | Company profile and lead generation for a dev agency, with a multi step quote builder and order tracking |
+| **SAKTI** &nbsp;`PPKPT module` | The campus module for preventing and handling violence in higher education |
+| **KAI Freight Intelligence** &nbsp;`testing and hardening` | A freight commodity platform. I raised PHP new code coverage from 58.7% to 89.9% and closed 136 SonarQube issues without disabling a single rule |
 
 ### The record I would point at first
 
