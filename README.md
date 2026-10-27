@@ -62,28 +62,6 @@ RailFuel is the largest frontend I have written, and it is the one with a SonarQ
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## Built, shipped, shared
-
-<p align="center">
-  <img src="assets/projects.svg" alt="project constellation" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/timeline.svg" alt="project launch timeline" width="100%" />
-</p>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><p><strong><a href="https://github.com/Naramakna/naramakna.id">naramakna.id</a></strong></p><p>News portal. I wrote the frontend in Next.js and the Express backend behind it.</p><p><sub>TypeScript</sub></p></td>
-<td width="33%" valign="top"><p><strong><a href="https://github.com/ApcomSolutions/Apcoms">Apcoms</a></strong></p><p>Company website for Apcoms Utama, with the article and admin side.</p><p><sub>JavaScript</sub></p></td>
-<td width="33%" valign="top"><p><strong><a href="https://github.com/Lyramor/respon-checklist-maintenance">respon-checklist-maintenance</a></strong></p><p>Maintenance checklist for an HCA area, with a monthly Excel report. Mine start to finish.</p><p><sub>Laravel, Inertia, React, PostgreSQL</sub></p></td>
-</tr>
-</table>
-
-<p align="center"><sub>Only public repositories can be drawn here. The client work above is on a private GitLab.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
 ## Elements
 
 <p align="center">
