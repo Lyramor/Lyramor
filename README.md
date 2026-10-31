@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Muhamad Marsa Nur Jaman</h1>
 <p align="center">Fullstack developer, Bandung</p>
 
